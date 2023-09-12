@@ -1,0 +1,89 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>anie</title>
+   <style>
+    .container {
+  height: 3rem;
+}
+
+.event-log {
+  width: 25rem;
+  height: 7rem;
+  border: 1px solid black;
+  margin: 0.2rem;
+  padding: 0.2rem;
+}
+
+.animation.active {
+  animation-duration: 2s;
+  animation-name: slidein;
+  animation-iteration-count: 4;
+}
+
+@keyframes slidein {
+  from {
+    transform: translateX(100%) scaleX(3);
+  }
+  to {
+    transform: translateX(0) scaleX(1);
+  }
+}
+
+   </style>
+</head>
+<body>
+    <div class="animation-example">
+        <div class="container">
+          <p class="animation">You chose</p>
+          <p class="animation">a cold night</p>
+          <p class="animation"> to visit our planet.</p>
+        </div><br><br><br>
+        <button class="activate" type="button">Activate animation</button>
+        <div class="event-log"></div>
+      </div>
+      <script>
+        const animation = document.querySelectorAll("p.animation");
+const animationEventLog = document.querySelector(
+  ".animation-example>.event-log"
+);
+const applyAnimation = document.querySelector(
+  ".animation-example>button.activate"
+);
+let iterationCount = 0;
+
+animation.addEventListener("animationstart", () => {
+  animationEventLog.textContent = `${animationEventLog.textContent}'animation started' `;
+});
+
+animation.addEventListener("animationiteration", () => {
+  iterationCount++;
+  animationEventLog.textContent = `${animationEventLog.textContent}'animation iterations: ${iterationCount}'`;
+});
+
+animation.addEventListener("animationend", () => {
+  animationEventLog.textContent = `${animationEventLog.textContent}'animation ended'`;
+  animation.classList.remove("active");
+  applyAnimation.textContent = "Activate animation";
+});
+
+animation.addEventListener("animationcancel", () => {
+  animationEventLog.textContent = `${animationEventLog.textContent}'animation canceled'`;
+});
+
+applyAnimation.addEventListener("click", () => {
+  animation.classList.toggle("active");
+  animationEventLog.textContent = "";
+  iterationCount = 0;
+  const active = animation.classList.contains("active");
+  applyAnimation.textContent = active
+    ? "Cancel animation"
+    : "Activate animation";
+});
+
+      </script>
+</body>
+</html>

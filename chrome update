@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt upgrade
+sudo apt --only-upgrade install google-chrome-stable
+
+#if upgrade was un-necessary run
+sudo apt autoremove
+#to remove
