@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },

@@ -1,4 +1,16 @@
 
+## Using Git
+```
+echo "# code-log" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Luckynotrich/code-log.git
+git push -u origin main
+```
+
+
 ### Using gh
 [How-To-Geek: How to Create and Manage a Github Repository From the Command Line](https://www.howtogeek.com/devops/how-to-create-and-manage-a-github-repository-from-the-command-line/)
 Log in to GitHub::  ==gh auth login==
