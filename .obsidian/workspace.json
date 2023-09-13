@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "Assets/Z-Diary.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,6 +34,28 @@
             }
           },
           {
+            "id": "bac29c3865117ae1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "08a78ec11cd30708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steve Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ad999608bda330e",
             "type": "leaf",
             "state": {
@@ -46,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
+                "file": "Steve Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
+                "file": "Steve Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md"
+                "file": "Steve Notes.md"
               }
             }
           },
@@ -183,11 +205,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2707d3af4b290873",
+  "active": "08a78ec11cd30708",
   "lastOpenFiles": [
+    "Battery Notes.md",
+    "vite/vite-notes.md",
+    "vite/Setup SCSS In Vite.md",
+    "Assets/Pasted image 20230913093525.png",
+    "Assets/Pasted image 20230912081057.png",
+    "Assets/Pasted image 20230913093305.png",
+    "Untitled",
     "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help.md",
     "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help 1.md",
-    "Z-Diary.md",
+    "Assets/Z-Diary.md",
     "React/How to Refresh a Page or Component in React - Upmostly.md",
     "Obsidian and Markdown.md",
     "in/Keyboard shortcuts for editing - Obsidian Help.md.part",
@@ -197,7 +226,6 @@
     "in/How to Create and Manage a Github Repository From the Command Line.md.part",
     "Obsidian and Markdown/markdown-cheat-sheet.md",
     "Steve Notes.md",
-    "Pasted image 20230912081057.png",
     "Git and Github",
     "in/Caramel Apple Crisp - Fifteen Spatulas.md",
     "Pasted image 20230907140455.png",
@@ -212,24 +240,19 @@
     "css/Style Radio inputs.md",
     "css/How to use Font Awesome Icons in CSS as background image.md",
     "Virt-manager.md",
-    "Assets/Pasted image 20230907133143.png",
     "PASS/Read-Unread enhancement.md",
-    "Assets/Pasted image 20230907133823.png",
     "Read-Unread enhancement.md.part",
     "PASS",
     "in/How to use Font Awesome Icons in CSS as background image.md.part",
-    "Battery Notes.md",
     "How to create a virtual machine using KVM on Ubuntu 22.04 LTS - DEV Community.md",
     "5 Best Linux Distributions that Looks Like MacOS in 2023.md",
     "in/deepin/Deepin - Wikipedia.md",
     "in/deepin/Deepin - Wikipedia.md.part",
-    "in/deepin",
     "Server setup/Media Server.md",
     "How to setup Firefox Developer Edition on Ubuntu - DEV Community.md",
     "Star image for star rating.md",
     "RDF - Semantic Web Standards.md",
     "React-Hook-Form/Check Boxes RHF.md",
-    "Home.md",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
