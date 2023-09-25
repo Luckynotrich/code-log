@@ -10,26 +10,81 @@
           {
             "id": "22a92912fab9a205",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "React-Hook-Form/useFieldArray.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "52548791b37ebfb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React-Hook-Form/RHF Arrays Tutorial - 14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4bb4dce41e4d01b7",
+            "id": "dd88ebad10be2124",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "React/React Error Boundaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3609b9886e373e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React-Hook-Form/Form Fields as an Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8f7cb0a2dee8088",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Diary.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9ba5c2d91c0c4541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in/MountUSB - Community Help Wiki.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "React-Hook-Form/Form Fields as an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "React-Hook-Form/Form Fields as an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Diary.md"
+                "file": "React-Hook-Form/Form Fields as an Array.md"
               }
             }
           },
@@ -166,17 +221,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a92912fab9a205",
+  "active": "3609b9886e373e38",
   "lastOpenFiles": [
-    "Pasted image 20230918092907.png",
-    "Pasted image 20230918092638.png",
-    "Pasted image 20230918092138.png",
-    "Assets/Pasted image 20230915114900.png",
+    "React-Hook-Form/useFieldArray.md",
+    "React-Hook-Form/Form Fields as an Array.md",
+    "React/PropTypes VS TypeScript in React applications.md",
+    "React/React Prop-types.md",
+    "React/React Error Boundaries.md",
+    "React-Hook-Form/RHF Arrays Tutorial - 14.md",
+    "Assets/Pasted image 20230920092718.png",
+    "Assets/Pasted image 20230924155044.png",
+    "Adding boot partition to Grub.md",
+    "in/MountUSB - Community Help Wiki.md",
+    "Assets/Pasted image 20230924153626.png",
+    "Assets/Pasted image 20230924135450.png",
+    "Assets/Pasted image 20230924135258.png",
+    "Assets/Pasted image 20230924135136.png",
+    "Assets/Pasted image 20230924134833.png",
+    "Assets/Pasted image 20230924123352.png",
+    "OS and Server setup/Media Server.md",
+    "in/MountUSB - Community Help Wiki.md.part",
     "Z-Diary.md",
-    "Assets/Pasted image 20230915085934.png",
+    "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md.part",
+    "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md",
+    "Assets/Pasted image 20230920095439.png",
+    "Assets/Pasted image 20230918092907.png",
     "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help.md",
-    "Assets/Pasted image 20230915085543.png",
-    "Pasted image 20230915085146.png",
     "Git and Github/Create a GitHub Repo from the Command Line.md",
     "Steve Notes.md",
     "Job Search/Random links.md",
@@ -189,9 +259,6 @@
     "Batteries",
     "vite/vite-notes.md",
     "vite/Setup SCSS In Vite.md",
-    "Assets/Pasted image 20230913093525.png",
-    "Assets/Pasted image 20230912081057.png",
-    "Assets/Pasted image 20230913093305.png",
     "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help 1.md",
     "React/How to Refresh a Page or Component in React - Upmostly.md",
     "Obsidian and Markdown.md",
@@ -199,21 +266,9 @@
     "Obsidian and Markdown",
     "in/How to Create and Manage a Github Repository From the Command Line.md",
     "in/How to Create and Manage a Github Repository From the Command Line.md.part",
-    "Obsidian and Markdown/markdown-cheat-sheet.md",
     "Git and Github",
-    "in/Caramel Apple Crisp - Fifteen Spatulas.md",
-    "Pasted image 20230907140455.png",
     "Assets/FUR-2023-9-7.xcf",
-    "Server setup/Using SSH Name Resolution to Associate Name with IP  Baeldung on Linux.md",
-    "css/Style Radio inputs.md",
-    "css/How to use Font Awesome Icons in CSS as background image.md",
-    "Virt-manager.md",
-    "PASS/Read-Unread enhancement.md",
     "Read-Unread enhancement.md.part",
-    "PASS",
-    "in/How to use Font Awesome Icons in CSS as background image.md.part",
-    "How to create a virtual machine using KVM on Ubuntu 22.04 LTS - DEV Community.md",
-    "5 Best Linux Distributions that Looks Like MacOS in 2023.md",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

@@ -102,22 +102,10 @@ Ditto
 #### Seems using a router is still left for build version
 #### Started the process of allowing CatForm to edit categories yesterday
 Complicated process:: converting preference text inputs to component. Still haven't gotten previously created category data to the components.
-#### Turns out the final barrier is React-Hook-Form not allowing the value to be set.
+#### Turns out the final barrier is [React-Hook-Form] not allowing the value to be set.
 [(using useFieldArray) example of what I am trying to accomplish](https://codesandbox.io/s/usefieldarray-conditional-2wi6f?file=/src/App.tsx)
-I did manage to write to field array ,but had no control
+I did manage to write to field array ,but printed field twice
 ```
-	import React, {useEffect, useState} from "react";
-	import { useForm, useFieldArray, Controller } from "react-hook-form";
-	
-	export default function App() {
-	const { register, control, handleSubmit, reset, trigger, setError } = useForm({
-	// defaultValues: {}; you can populate the fields by this attribute
-	});
-	
-	const { fields, append, remove } = useFieldArray({
-	control,
-	name: "test"
-	});
 	
 	useEffect(() => {
 	const run = ()=> {
@@ -127,33 +115,25 @@ I did manage to write to field array ,but had no control
 	if() run();
 	}, []); // you can use fields data in your useEffect
 	
-	return (
-	<form onSubmit={handleSubmit(data => console.log(data))}>
-	<ul>
-	{fields.map((item, index) => (
-	<li key={item.id}>
-	<input {...register(`test.${index}.firstName`)} />
-	<Controller
-	render={({ field }) => <input {...field} />}
-	name={`test.${index}.lastName`}
-	control={control}
-	/>
-	<button type="button" onClick={() => remove(index)}>Delete</button>
-	</li>
-	))}
-	</ul>
-	<button
-	type="button"
 	
-	onClick={() => append({ firstName: "bill", lastName: "luo" })}
-	
->	
-	append
-	</button>
-	<input type="submit" />
-	</form>
-	
-	);
-	
-	}
 ```
+same:: tried to clear field array, but still printed twice
+```
+	
+	useEffect(() => {
+	fields.map((item,index)=> remove(index))
+	append({ firstName: "bill", lastName: "luo" });
+	}, []); // you can use fields data in your useEffect
+	
+	
+```
+### 9-20-2023
+#### [The winner! playground-react-vite/App_onClick_fieldArray.jsx](obsidian://open?vault=code-log&file=React-Hook-Form%2FForm%20Fields%20as%20an%20Array)
+![[Pasted image 20230920095439.png]]
+output
+![[Pasted image 20230920092718.png]]
+Requires the 'onClick' event which I can implement in the cat-name-form.jsx
+The problem is:: can I alias 'fields' 
+
+#### Installed React-hook-form-devtools
+Check it Out!
