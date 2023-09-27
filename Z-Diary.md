@@ -137,3 +137,8 @@ The problem is:: can I alias 'fields'
 
 #### Installed React-hook-form-devtools
 Check it Out!
+### 9-27-2023
+Seven FUCKING DAYS! This hasn't been a vacation, it's been a war between my brain and React-Hook-Form with GPT-Copilot throwing in a little confusion
+[Adding boot partition to Grub](obsidian://open?vault=code-log&file=OS%20and%20Server%20setup%2FAdding%20boot%20partition%20to%20Grub)
+[MountUSB - Community Help Wiki](obsidian://open?vault=code-log&file=OS%20and%20Server%20setup%2FMountUSB%20-%20Community%20Help%20Wiki)
+[Form Fields as an Array](obsidian://open?vault=code-log&file=React-Hook-Form%2FForm%20Fields%20as%20an%20Array)
