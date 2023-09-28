@@ -133,12 +133,28 @@ same:: tried to clear field array, but still printed twice
 output
 ![[Pasted image 20230920092718.png]]
 Requires the 'onClick' event which I can implement in the cat-name-form.jsx
-The problem is:: can I alias 'fields' 
-
+The problem is:: can I alias 'fields' [YES](obsidian://open?vault=code-log&file=React-Hook-Form%2Fmultiple-useFieldArray)
+```
+const {
+fields: proFields,
+append: proAppend,
+remove: proRemove,
+} = useFieldArray({
+control,
+name: "pros",
+});
+```
 #### Installed React-hook-form-devtools
 Check it Out!
 ### 9-27-2023
-Seven FUCKING DAYS! This hasn't been a vacation, it's been a war between my brain and React-Hook-Form with GPT-Copilot throwing in a little confusion
+Seven FUCKING DAYS! This hasn't been a vacation, it's been a war between my brain and React-Hook-Form with GPT-Copilot throwing in a little confusion. 
 [Adding boot partition to Grub](obsidian://open?vault=code-log&file=OS%20and%20Server%20setup%2FAdding%20boot%20partition%20to%20Grub)
-[MountUSB - Community Help Wiki](obsidian://open?vault=code-log&file=OS%20and%20Server%20setup%2FMountUSB%20-%20Community%20Help%20Wiki)
+[Mount USB - Community Help Wiki](obsidian://open?vault=code-log&file=OS%20and%20Server%20setup%2FMountUSB%20-%20Community%20Help%20Wiki)
 [Form Fields as an Array](obsidian://open?vault=code-log&file=React-Hook-Form%2FForm%20Fields%20as%20an%20Array)
+I went to Portland 9-20-2023 to attend CodePDX work session. Came back next day with silicone coating and started coating the carport roof. Finished by next day, so both Wednesday and Friday were 1/2 days. Two days lost to carport and then Saturday spent painting it. Sunday working on the MediaServer.
+### 9-28-2023
+Trying to understand why cat-form.jsx doesn't get data from create-cat-form.jsx. Its either the data isn't being communicated or react isn't waiting.
+
+issue:: cat is defined
+##### ISSUE:: category-api/updateOne didn't add preferences to category.
+
