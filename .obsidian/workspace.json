@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22a92912fab9a205",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React-Hook-Form/useFieldArray.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dd88ebad10be2124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React Error Boundaries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c8f7cb0a2dee8088",
             "type": "leaf",
             "pinned": true,
@@ -46,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ba0b471ba67990f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React-Hook-Form/multiple-useFieldArray.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ba5c2d91c0c4541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS and Server setup/MountUSB - Community Help Wiki.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a26d182198cf2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React-Hook-Form/Form Fields as an Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,9 +160,9 @@
   },
   "active": "c8f7cb0a2dee8088",
   "lastOpenFiles": [
-    "React-Hook-Form/multiple-useFieldArray.md",
     "React-Hook-Form/useFieldArray.md",
     "Z-Diary.md",
+    "React-Hook-Form/multiple-useFieldArray.md",
     "React-Hook-Form/Form Fields as an Array.md",
     "OS and Server setup/MountUSB - Community Help Wiki.md",
     "().md",
