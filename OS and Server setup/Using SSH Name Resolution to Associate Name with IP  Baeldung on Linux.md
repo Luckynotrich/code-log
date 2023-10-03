@@ -1,6 +1,6 @@
   
 
-## 1\. Introduction[](https://www.baeldung.com/linux/ssh-name-resolution-ip#introduction)
+## [1\. Introduction](https://www.baeldung.com/linux/ssh-name-resolution-ip#introduction)
 
 Since humans are generally better at remembering names rather than [IP address](https://www.baeldung.com/cs/ipv4-vs-ipv6#ip-address) numbers, many technologies convert the latter to the former. Further, some even exist for the sole purpose of that conversion. Still, others implement the function for internal use.
 
@@ -12,7 +12,6 @@ We tested the code in this tutorial on Debian 11 (Bullseye) with GNU Bash 5.1.4 
 
 Generally, there are two common ways to resolve names to IP addresses in Linux:
 
-[![freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=baeldung.com&utm_content=baeldung_leaderboard_mid_1)
 
 -   [Domain Name System (DNS)](https://www.baeldung.com/cs/dns-intro): domain name to IP address
 -   [_hosts_ file](https://www.baeldung.com/linux/wildcard-subdomain-hosts-file#modifyingetchosts): [hostname](https://www.baeldung.com/linux/set-or-change-system-hostname) to IP address
@@ -28,8 +27,7 @@ Yet, a [DNS server](https://www.baeldung.com/cs/dns-authoritative-server-ip) can
 On the other hand, local DNS servers aren’t that common and are limited by their nature. On top of that, using one system to query another about the address of a third can be a convoluted and burdening way to communicate.
 
 These **drawbacks of DNS can force alternate solutions**.
-
-[![freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=baeldung.com&utm_content=baeldung_leaderboard_mid_2)
+]
 
 ### 2.2. Hosts Files and _/etc/hosts_[](https://www.baeldung.com/linux/ssh-name-resolution-ip#2-hosts-files-and-etchosts)
 
@@ -58,8 +56,6 @@ PING localhost (127.0.0.1) 56(84) bytes of data.
 In this case, [_ping_](https://www.baeldung.com/linux/ping-command) resolves [_localhost_ to _127.0.0.1_](https://www.baeldung.com/cs/127-0-0-1-vs-localhost).
 
 Importantly, even for mappings to remote addresses, **the _hosts_ file only works for the local system**. Indeed, this can be inconvenient when switching environments.
-
-[![freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=baeldung.com&utm_content=baeldung_leaderboard_mid_3)
 
 In all cases, domain and host names can and often differ between themselves and from other names for the same system, like those provided within certain protocol configurations.
 
@@ -101,8 +97,6 @@ Here, **once added to _/etc/hosts_, we see that a previously unknown name _xost_
 As an alternative to classic approaches, **we can leverage the [_ssh\_config_](https://man.openbsd.org/ssh_config) file to configure name resolution only for SSH**.
 
 Although potentially limiting, this method can provide several benefits:
-
-[![freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=baeldung.com&utm_content=baeldung_incontent_1)
 
 -   even more localized resolution of names
 -   set via the SSH protocol configuration

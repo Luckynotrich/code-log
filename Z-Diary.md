@@ -197,7 +197,7 @@ export const catObj = (cat) => {
 }
 ```
 
-9-29-2023
+### 9-29-2023
 Modified cat-form so it will allow user to edit Like/Dis-like values and append/delete fields for either in a category.  I finished the code above today. I also added 
 ```Javascript
 const categoryIndexOf = (id) => {
@@ -213,8 +213,27 @@ return index;
 These two allowed me to only pass the id of the category from create-cat-form to cat-form so it could use these functions to display the state of the category.
 
 I also got Ubuntu desktop install completed on mediaserver.
-#### ISSUE:: create-cat-form submit button does not display.
-======================================================================
+
+### 10-2-2023
+ ISSUE:: create-cat-form submit button does not display.
+ Solution: set left position to a more reasonable setting.
+
+Added Delete and Add icons to category-form
+
+![[upon-delete-append.png]]
+
+[Implemented https in ur-backend using](https://adamtheautomator.com/https-nodejs/)
+
+###  10-3-2023
+worked till 5:30 pm last night on Newledohub. That site is my relative position hell. If things work out here at Newledo perhaps I will implement flex box to reduce the heat :p
+
+Back on the Newledohub trail today with Nicole's Windows box.
+
+
+
+--------------------------------------------------------------
+#### ISSUE:: I must push to git everyday
 ##### ISSUE:: category-context updateCategory has not been tested
 ##### ISSUE:: category-api/updateOne didn't add preferences to category.
+
 
