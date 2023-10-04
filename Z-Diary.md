@@ -230,6 +230,9 @@ worked till 5:30 pm last night on Newledohub. That site is my relative position 
 Back on the Newledohub trail today with Nicole's Windows box.
 
 
+###  10-4-2023
+
+I have https running on ur-backend, but still can't get data to phone. I will continue to develop in http and think about a domain name
 
 --------------------------------------------------------------
 #### ISSUE:: I must push to git everyday

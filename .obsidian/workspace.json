@@ -20,8 +20,57 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4db9bc4d48a89dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bash/apt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "090935b6b4982664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/Nodejs https for developement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07aa3d514b9a3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn React Query In 50 Minutes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ebc8c62dd9720e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/Nodejs https for developement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 456.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -87,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "nodejs/Nodejs https for developement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "nodejs/Nodejs https for developement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Diary.md"
+                "file": "nodejs/Nodejs https for developement.md"
               }
             }
           },
@@ -158,19 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8f7cb0a2dee8088",
+  "active": "090935b6b4982664",
   "lastOpenFiles": [
-    "in/(27) Jobs based on your profile  LinkedIn.md",
+    "Learn React Query In 50 Minutes.md",
+    "nodejs/Nodejs https for developement.md",
+    "React Query/React Query(Tan Stack Query).md",
+    "Assets/Pasted image 20231004124852.png",
+    "React Query",
     "Z-Diary.md",
+    "Assets/Pasted image 20231004124550.png",
+    "Assets/Pasted image 20231004124503.png",
+    "Assets/Pasted image 20231004123709.png",
+    "Assets/Pasted image 20231004123428.png",
+    "Assets/Pasted image 20231004122929.png",
+    "Assets/Pasted image 20231004114124.png",
+    "Assets/Pasted image 20231004113615.png",
+    "Assets/Pasted image 20231004113236.png",
+    "Pasted image 20231004112003.png",
+    "bash/apt.md",
+    "Git and Github/Create a GitHub Repo from the Command Line.md",
+    "nodejs/HTTPS Localhost For Node.JS - DEV Community.md",
+    "nodejs/HTTPS Localhost For Node.JS - DEV Community.md",
+    "nodejs",
+    "in/HTTPS Localhost For Node.JS - DEV Community.md.part",
+    "in/(27) Jobs based on your profile  LinkedIn.md",
     "OS and Server setup/Using SSH Name Resolution to Associate Name with IP  Baeldung on Linux.md",
     "bash/find  -  bash.md",
     "bash",
     "in/How to Search for Files from the Linux Command Line.md",
     "in/How to Search for Files from the Linux Command Line.md.part",
-    "upon-delete-append 1.png",
-    "Assets/Pasted image 20231002112605.png",
-    "Pasted image 20231002135725.png",
-    "Assets/upon-delete-append.png",
     "React-Hook-Form/useFieldArray.md",
     "React-Hook-Form/multiple-useFieldArray.md",
     "React-Hook-Form/Form Fields as an Array.md",
@@ -183,29 +248,12 @@
     "OS and Server setup/Media Server.md",
     "React/PropTypes VS TypeScript in React applications.md",
     "React/React Prop-types.md",
-    "Assets/Pasted image 20230920092718.png",
-    "Assets/Pasted image 20230924155044.png",
-    "Assets/Pasted image 20230924153626.png",
-    "Assets/Pasted image 20230924135450.png",
-    "Assets/Pasted image 20230924135258.png",
-    "Assets/Pasted image 20230924135136.png",
     "in/MountUSB - Community Help Wiki.md.part",
     "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md.part",
     "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md",
-    "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help.md",
-    "Git and Github/Create a GitHub Repo from the Command Line.md",
-    "Steve Notes.md",
-    "Job Search/Random links.md",
-    "Batteries/Solar generator.md",
-    "RDF - Semantic Web Standards.md",
-    "interview/BANKI/README.md",
     "Job Search",
-    "Batteries/Solar renewable.md",
     "Batteries",
     "in/Keyboard shortcuts for editing - Obsidian Help.md.part",
-    "Obsidian and Markdown",
-    "in/How to Create and Manage a Github Repository From the Command Line.md.part",
-    "Git and Github",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
