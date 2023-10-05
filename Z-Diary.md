@@ -232,7 +232,13 @@ Back on the Newledohub trail today with Nicole's Windows box.
 
 ###  10-4-2023
 
-I have https running on ur-backend, but still can't get data to phone. I will continue to develop in http and think about a domain name
+I have [https](obsidian://open?vault=code-log&file=nodejs%2FNodejs%20https%20for%20development) running on ur-backend, but still can't get data to phone. I will continue to develop in http and think about a domain name.
+
+I discovered [Tan Stack Query](obsidian://open?vault=code-log&file=Tan%20Stack%20Query%20in%2050%20Minutes)[(React Query)](obsidian://open?vault=code-log&file=React%20Query%2FReact%20Query(Tan%20Stack%20Query)) I created 2 different documents, but they are the same library. Now called Tan Stack Query and available for [ React Query, Solid Query, Svelte Query, Vue Query](https://tanstack.com/query)
+
+###  10-5-2023
+#### In creating the post above I discovered [SOLIDJS](https://www.solidjs.com/) which might be interesting to investigate
+Today is the first day of working on the rest of the life of Show-Review. Time to get the whole thing working (the three main pages anyway)
 
 --------------------------------------------------------------
 #### ISSUE:: I must push to git everyday

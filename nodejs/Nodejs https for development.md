@@ -1,3 +1,4 @@
+Turns out, the best way to see a development page that won't display on your phone is to implement https with a self issued key/cert pair, but you still have to copy the cert.pem to the trusted directory of your phone or browser. Anyway Firefox seems to not allow that anymore based on my research.
 ```bash
 sudo apt list --installed | grep mkcert
 sudo apt install mkcert
@@ -30,6 +31,7 @@ It will expire on 4 January 2026 🗓
 
 ```
 test server
+
 ``` js
 // Import builtin NodeJS modules to instantiate the service
 const https = require("https");
