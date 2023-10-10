@@ -240,6 +240,12 @@ I discovered [Tan Stack Query](obsidian://open?vault=code-log&file=Tan%20Stack%2
 #### In creating the post above I discovered [SOLIDJS](https://www.solidjs.com/) which might be interesting to investigate
 Today is the first day of working on the rest of the life of Show-Review. Time to get the whole thing working (the three main pages anyway)
 
+### 10-10-2023
+React-Router-Dom is a big bottle neck. Last week I started to investigate React Query and got some ways on a tutorial. Its complicated, today I decided to fix or destroy the router configuration I have in Upon Review App.jsx, but really got no where.
+ 
+# Never try the react-router site tutorial again
+ 
+
 --------------------------------------------------------------
 #### ISSUE:: I must push to git everyday
 ##### ISSUE:: category-context updateCategory has not been tested

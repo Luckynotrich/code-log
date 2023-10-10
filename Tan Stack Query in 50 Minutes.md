@@ -1,3 +1,5 @@
+
+```
 ![[Pasted image 20231005092732.png]]
 ```bash
 npm i @tanstack/react-query
@@ -23,7 +25,7 @@ The get posts function
 import { useQuery, useMutation} from "@tanstack/react-query"
 ```
 ##### useQuery takes an object
-queryFn: takes asynchronous function 
+queryFn: takes asynchronous function ===which must return a promise===
 The video is using a function called wait to simulate network conditions
 ![[Pasted image 20231005094539.png]]
 #### How queryKey works
@@ -36,7 +38,7 @@ queryKey: passing an object to the queryKey function allows the console.log outp
 ![[Pasted image 20231005124422.png]]
 ##### If you need to see what is in the queryKey replace obj with {queryKey}
 
-useQuery and by extension postQuery gives you access to a variety of state information
+#### useQuery and by extension postQuery gives you access to a variety of state information
 ![[Pasted image 20231005125054.png]]
 
 
@@ -99,4 +101,28 @@ The enabled code disables `userQuery` until after `postQuery` receives a `userId
 The `App.jsx` body
 ![[Pasted image 20231005150220.png]]
 The Create Post head code
-![[Pasted image 20231005152217.png]]
+![[Pasted image 20231005152217.png]]![[Pasted image 20231006090454.png]]
+posts.js
+![[Pasted image 20231006090604.png]]
+#### `useMutation`
+![[Pasted image 20231006090808.png]]
+
+Optionally, variables can be passed, but function will be the same. Also,`useMutation` can accept properties including `onSuccess,onError, onMutate, onSetteles,`
+![[Pasted image 20231006091827.png]]
+Also,`useMutation` can accept properties including `onSuccess,``onError,` which would require an error rather than data.` onMutate,`  is called before mutation function and is where you would set context`  onSetteles,`
+![[Pasted image 20231006101018.png]]
+The only property for `useMutation` is a function for `mutationFn` ===which must return a promise===
+![[Pasted image 20231006091918.png]]
+Passing in an object with title and body
+
+
+` onMutate,`  is called before mutation function and is where you would set context
+![[Pasted image 20231006101549.png]]
+Great for doing thing before the mutation takes place, or setting data inside context. 
+
+If your mutation fails, `useMutation` doesn't retry like would happen with a query to make sure the action requested doesn't repeat multiple times while still failing the mutation.
+		It is possible to say, add `retry 3` before the `onSuccess` and the `useMutation` will retry 3 times.
+
+Any particular mutation will have many possible states including`error, idle,loading, success
+![[Pasted image 20231006102730.png]]
+The 'IS' property can be used to check `isError, isIdle, isLoading, isSuccess`
