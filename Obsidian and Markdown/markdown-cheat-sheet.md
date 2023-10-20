@@ -111,9 +111,48 @@ That is so funny! :joy:
 I need to highlight these ==very important words==.
 
 ### Subscript
+H~2~O (This does NOT work in Obsidian)
+Obsidian $_t$$_m$ (This does work in Obsidian using`$_t$$_m$ `)
+$\pu{Obsidian _{tm}}$ (Using `$\pu{Obsidian _{tm}}$` seems to change the font)
 
-H~2~O
 
 ### Superscript
+X^2^ (This does NOT work in Obsidian)
+Obsidian$^T$$^M$    (This does work in Obsidian using `$^T$$^M$`)
+$\pu{Obsidian ^{TM}}$ (Using `$\pu{Obsidian ^{TM}}$`)
 
-X^2^
+The right way to represent what you want is to put both quantity and unit inside the `\pu` command (“pu” stands for “physical unit”):
+
+```markdown
+$\pu{100 m2}$
+```
+
+which renders as
+#####  $\pu{100 m2}$
+
+More examples:
+
+```markdown
+$\pu{1.23 kg.m^{-3}}$
+
+$\pu{8.31432e3 N.m.kmol^{-1}.K^{-1}}$
+```
+##### $\pu{1.23 kg.m^{-3}}$
+(above edited to demonstrate subtext)
+#####  $\pu{8.31432e3 N.m.kmol^{-1}.K_{-1}}$
+
+
+
+1. You can use html tag `<sup>your text</sup>`. But this is only practical for occasional use.   A more practical way is create a template using Templater plugin syntax:
+
+```css
+<sup><% tp.file.selection() %></sup>
+```
+
+Then create a shortcut/hotkey (via Templater plugin settings) to this template. To use it you select the wanted text and apply the shortcut.
+
+2. Second way - install the plugin cMenu.
+
+EDIT: In 1. for “subscripts” create another template with `<sub><% tp.file.selection() %></sub>`
+
+

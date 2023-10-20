@@ -8,28 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8f7cb0a2dee8088",
+            "id": "870fea6a37e8753e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "Log 8.24.23 to 10.19.23.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "245bc5523a67600c",
+            "id": "c40627e3b4e5bf49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "Log 10.20.23.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b93a5d42a263f981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/React Query - Dave Gray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "325434b533a1e689",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231019125104.png"
               }
             }
           }
@@ -84,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -100,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "Log 10.20.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Diary.md",
+                "file": "Log 10.20.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Diary.md"
+                "file": "Log 10.20.23.md"
               }
             }
           },
@@ -171,9 +192,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "245bc5523a67600c",
+  "active": "c40627e3b4e5bf49",
   "lastOpenFiles": [
-    "Tan Stack Query in 50 Minutes.md",
+    "Pasted image 20231020101054.png",
+    "Log 8.24.23 to 10.19.23.md",
+    "Log 10.20.23.md",
+    "React Query/Tan Stack Query in 50 Minutes.md",
+    "Assets/React Query - Dave Gray.md",
+    "Pasted image 20231019125104.png",
+    "JSON Server - Dave Gray.md",
+    "React Query/React Query(Tan Stack Query).md",
+    "Obsidian and Markdown/markdown-cheat-sheet.md",
+    "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "in/Untangle your web development with Snowpack.md",
+    "React/React Error Boundaries.md",
+    "in/Untangle your web development with Snowpack.md.part",
+    "React PropTypes.md",
+    "OS and Virtulization/Virt-manager.md",
+    "bash/rsync_help.md",
+    "Home.md",
+    "snowpack.md",
+    "ISSUES.md",
+    "Keystroke detection/Detect Refresh with JS Cookies.md",
+    "Keystroke detection",
+    "React-Hook-Form/Get Started.md",
+    "Learn React Query In 50 Minutes.md",
     "bash/dpkg.md",
     "Assets/Pasted image 20231006090808.png",
     "bash/apt.md",
@@ -184,40 +228,18 @@
     "Assets/Pasted image 20231006091827 1.png",
     "Assets/Pasted image 20231006091918.png",
     "Assets/Pasted image 20231006091827.png",
-    "Z-Diary.md",
     "Assets/Pasted image 20231006090604.png",
-    "Assets/Pasted image 20231006090454.png",
     "PASS/Read-Unread enhancement.md",
     "Job Search/Random links.md",
     "nodejs/Nodejs https for development.md",
-    "Learn React Query In 50 Minutes.md",
-    "React Query/React Query(Tan Stack Query).md",
     "React Query",
-    "Git and Github/Create a GitHub Repo from the Command Line.md",
-    "nodejs/HTTPS Localhost For Node.JS - DEV Community.md",
-    "nodejs/HTTPS Localhost For Node.JS - DEV Community.md",
     "nodejs",
     "in/HTTPS Localhost For Node.JS - DEV Community.md.part",
-    "in/(27) Jobs based on your profile  LinkedIn.md",
-    "OS and Server setup/Using SSH Name Resolution to Associate Name with IP  Baeldung on Linux.md",
-    "bash/find  -  bash.md",
     "bash",
-    "in/How to Search for Files from the Linux Command Line.md",
     "in/How to Search for Files from the Linux Command Line.md.part",
-    "React-Hook-Form/useFieldArray.md",
-    "React-Hook-Form/multiple-useFieldArray.md",
-    "React-Hook-Form/Form Fields as an Array.md",
-    "OS and Server setup/MountUSB - Community Help Wiki.md",
-    "React-Hook-Form/register.md",
-    "OS and Server setup/Adding boot partition to Grub.md",
-    "React-Hook-Form/RHF Arrays Tutorial - 14.md",
-    "React/React Error Boundaries.md",
-    "OS and Server setup/Media Server.md",
     "in/MountUSB - Community Help Wiki.md.part",
     "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md.part",
     "Job Search",
-    "Batteries",
-    "in/Keyboard shortcuts for editing - Obsidian Help.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

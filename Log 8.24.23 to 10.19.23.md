@@ -241,14 +241,127 @@ I discovered [Tan Stack Query](obsidian://open?vault=code-log&file=Tan%20Stack%2
 Today is the first day of working on the rest of the life of Show-Review. Time to get the whole thing working (the three main pages anyway)
 
 ### 10-10-2023
-React-Router-Dom is a big bottle neck. Last week I started to investigate React Query and got some ways on a tutorial. Its complicated, today I decided to fix or destroy the router configuration I have in Upon Review App.jsx, but really got no where.
+React-Router-Dom is a big bottle neck. Last week I started to investigate React Query and got some ways on a tutorial. Its complicated, today I decided to fix or destroy the router configuration I have in Upon Review `App.jsx`, but really got no where.
  
 # Never try the react-router site tutorial again
  
+Checkout VS Code Jupyter Notebook
+### 10-11-2023
+Today is the first day of working on the rest of the life of Show-Review. Time to get the whole thing working (the three main pages anyway)
+Problem with Obsidian today can't seem to change to smaller font. 
+But First I want to implement Tan Stack/React-Query
 
---------------------------------------------------------------
-#### ISSUE:: I must push to git everyday
-##### ISSUE:: category-context updateCategory has not been tested
-##### ISSUE:: category-api/updateOne didn't add preferences to category.
+### 10-12-2023
+ Last night modernized 'Detect-Refresh' code for detecting page refresh 
 
+### 10-12-2023
+The day of the Eclipser Mixer. 
+Incorporating Detect-Refresh into react
 
+### 10-19-23
+I did work yesterday. I just didn't to this or to GitHub. We went to Astoria on Monday 10-16 after I spent some time working to understand `react-router-dom` better. I was/am trying to capture user resets. I interacted a bit 'Echo Pilot' $^T$$^m$ which gave me code that seems to capture the reset and prevent complete meltdown.
+``` js
+import { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';  
+
+function UseRefreshDetection() {
+const [refreshCount, setRefreshCount] = useState(0);
+const navigate = useNavigate();  
+
+useEffect(() => {
+	const currentCount = sessionStorage.getItem('refreshCount') || 0;
+	setRefreshCount(parseInt(currentCount));  
+
+	const handleBeforeUnload = () => {
+	sessionStorage.setItem('refreshCount', refreshCount + 1);
+};  
+
+	const handleRefresh = (event) => {
+	event.preventDefault();
+	 navigate('/');
+};
+
+	window.addEventListener('beforeunload', handleBeforeUnload);
+	window.addEventListener('unload', handleRefresh);  
+
+	return () => {
+	window.removeEventListener('beforeunload', handleBeforeUnload);
+	window.removeEventListener('unload', handleRefresh);
+};
+}, [refreshCount, navigate]);  
+
+return refreshCount;
+}
+
+export default UseRefreshDetection;
+```
+
+#### Today 10-19-23
+I am working with `useState` to cause `navigate` to work properly. I think it may refresh the current page only. 
+	It turns out that using `useLocation` may be the solution. I was shown one [example](https://codesandbox.io/s/hardcore-tamas-vdyspf?file=/src/App.jsx) of how it could work.
+	
+````  js
+let location = useLocation();
+console.log(location);
+
+return (
+	<div className="App">
+	<div className="routes">
+	<Link to="/show-1">
+		<button
+			onClick={handleClick(0)}
+			className={
+				location.pathname === "/show-1" || location.pathname === "/"
+				? "large-leftActive"
+				: "large-left"
+			}
+			type="button"
+			value="1"
+			>						
+			1
+		</button>
+	</Link>  
+
+	<Link to="/show-2">
+	<button
+		onClick={handleClick(1)}
+		className={
+		location.pathname === "/show-2"
+			? "large-centerActive"
+			: "large-center"
+			}
+		value="2"
+		type="button"
+		>	
+		2
+	</button>
+	</Link>
+	<Link to="/show-3">
+	<button
+		onClick={handleClick(2)}
+		className={
+			location.pathname === "/show-3"
+			? "large-rightActive"
+			: "large-right"
+			}
+		value="3"
+		type="button"
+		>
+		3
+	</button>
+	</Link>
+	</div>
+	<Outlet />
+
+	<Routes>
+		<Route exact path="/show-1" element={<Show1 />}></Route>
+		<Route path="/show-2" element={<Show2 />}></Route>
+		<Route path="/show-3" element={<Show3 />}></Route>
+		<Route path="*" element={<Show1 />}></Route>
+	</Routes>
+	</div>
+
+	);
+
+}
+```

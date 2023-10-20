@@ -2,8 +2,13 @@
 ## [React error handling with react-error-boundary](https://blog.logrocket.com/react-error-handling-with-react-error-boundary/#use-error-handler-hook)
 [Yusuff Faruq](https://blog.logrocket.com/author/yusufffaruq/)
 _This article was updated by_ [_Huzaima Khan_](https://blog.logrocket.com/author/huzaimakhan/) _on 24 May 2023_
-## Using react-error-boundary
+``` npm
+npm install react-error-boundary
 ```
+
+```
+## Using react-error-boundary
+
 import { ErrorBoundary } from 'react-error-boundary'
 
 function MyFallbackComponent({ error, resetErrorBoundary }) {
@@ -98,7 +103,7 @@ function App() {
 }
 ```
 
-### `withErrorBoundary` function as HOC
+### `withErrorBoundary` function as High Order Component
 ```
 import { withErrorBoundary } from 'react-error-boundary'
 

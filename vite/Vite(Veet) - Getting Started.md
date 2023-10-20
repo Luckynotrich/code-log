@@ -1,15 +1,23 @@
-<!-- vite-notes.md -->
 
-1) npm init vite
-    this will prompt you for project name, and template
+[Vite - Getting Started](https://vitejs.dev/guide/)
+1)
+```
+npm init vite
+```
+   this will prompt you for project name, and template
 or 
 
-2) npm create vite@latest project-name -- --template vanilla <!-- https://vitejs.dev/guide/ -->
-    this will prompt you to run - cd project-name/;
-                                  npm install;
-                                  npm run dev
+2)
+``` bash
+npm create vite@latest project-name -- --template react 
+```
 
-To use sass/scss enter "npm add -D sass"
+this will prompt you to run - 
+								`cd project-name/
+                                 ` npm install
+                                  `npm run dev`
+
+To use `sass/scss` enter `npm add -D sass`
 
 Remove "style.css" from project and create "style.scss"
 

@@ -1,9 +1,8 @@
+[Learn React Query In 50 Minutes](https://www.youtube.com/watch?v=r8Dg0KVnfMA)
 
-```
-![[Pasted image 20231005092732.png]]
 ```bash
 npm i @tanstack/react-query
-npm i @tanstack/react-query-devtools
+npm i @tanstack/react-query-devtools -D
 ```
 
 ```js
@@ -17,6 +16,7 @@ Wrap
 	<ReactQueryDevtools />
 </QueryClientProvider>
 ```
+![[`Pasted image 20231005092732.png`]]
 The get posts function
 ![[Pasted image 20231005125529.png]]
 

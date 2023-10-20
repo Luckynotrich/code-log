@@ -1,1 +1,0 @@
-npx create-snowpack-app react-snowpack --template @snowpack/app-template-react
