@@ -301,6 +301,22 @@ I am working with `useState` to cause `navigate` to work properly. I think it ma
 	It turns out that using `useLocation` may be the solution. I was shown one [example](https://codesandbox.io/s/hardcore-tamas-vdyspf?file=/src/App.jsx) of how it could work.
 	
 ````  js
+import React /* , {useEffect, useCallback} */ from "react";
+import { Routes, Route, Link, Outlet, useLocation } from "react-router-dom";
+import Show2 from "./components/show-2.jsx"; //./components/categoryshow-2.js'
+import Show3 from "./components/show-3.jsx"; //./components/review/review-category.jsx'
+import Show1 from "./components/show-1.jsx"; //./components/reviewshow-1-review.jsx
+import "./scss/App.scss";
+
+function App() {
+const [active, setActive] = React.useState([true, false, false]);
+const handleClick = (index) => {
+return () => {
+	const newActive = [false, false, false];
+	newActive[index] = true;
+	setActive(newActive);
+	};
+};
 let location = useLocation();
 console.log(location);
 

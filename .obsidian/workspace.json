@@ -8,53 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "870fea6a37e8753e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Log 8.24.23 to 10.19.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c40627e3b4e5bf49",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Log 10.20.23.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b93a5d42a263f981",
+            "id": "0b68c594d39f2dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/React Query - Dave Gray.md",
+                "file": "React-Router-Dom/NavLink.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "325434b533a1e689",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231019125104.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -194,13 +172,20 @@
   },
   "active": "c40627e3b4e5bf49",
   "lastOpenFiles": [
-    "Pasted image 20231020101054.png",
-    "Log 8.24.23 to 10.19.23.md",
-    "Log 10.20.23.md",
-    "React Query/Tan Stack Query in 50 Minutes.md",
+    "React-Router-Dom/NavLink.md",
     "Assets/React Query - Dave Gray.md",
-    "Pasted image 20231019125104.png",
     "JSON Server - Dave Gray.md",
+    "~/webdev/refresh-detected-react.md",
+    "Assets/Pasted image 20231025082027.png",
+    "Log 10.20.23.md",
+    "~/webdev",
+    "~",
+    "see.md",
+    "React-Router-Dom",
+    "Log 8.24.23 to 10.19.23.md",
+    "Pasted image 20231020101054.png",
+    "React Query/Tan Stack Query in 50 Minutes.md",
+    "Pasted image 20231019125104.png",
     "React Query/React Query(Tan Stack Query).md",
     "Obsidian and Markdown/markdown-cheat-sheet.md",
     "Obsidian and Markdown/Keyboard shortcuts for editing - Obsidian Help.md",
@@ -227,19 +212,11 @@
     "Assets/Pasted image 20231006092201.png",
     "Assets/Pasted image 20231006091827 1.png",
     "Assets/Pasted image 20231006091918.png",
-    "Assets/Pasted image 20231006091827.png",
-    "Assets/Pasted image 20231006090604.png",
-    "PASS/Read-Unread enhancement.md",
-    "Job Search/Random links.md",
-    "nodejs/Nodejs https for development.md",
     "React Query",
     "nodejs",
     "in/HTTPS Localhost For Node.JS - DEV Community.md.part",
     "bash",
     "in/How to Search for Files from the Linux Command Line.md.part",
-    "in/MountUSB - Community Help Wiki.md.part",
-    "in/The Best Thai Peanut Sauce Recipe - Fox and Briar.md.part",
-    "Job Search",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
