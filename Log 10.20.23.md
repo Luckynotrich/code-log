@@ -72,9 +72,9 @@ Tuesday, I converted Newledo happenings images to multiple size images for the w
 
 Wednesday(today), I am continuing on the SCSS code generator.
 ### Links of the Day
-#### [HTMLImageElement: naturalWidth property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalWidth)
-#### [HTMLImageElement: naturalHeight property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalHeight)
-
+[HTMLImageElement: naturalWidth property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalWidth)
+[HTMLImageElement: naturalHeight property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalHeight)
+Above codes only work in the browser
 ``` html
 <!DOCTYPE html>
 <html>
@@ -99,4 +99,22 @@ Wednesday(today), I am continuing on the SCSS code generator.
   </body>
 </html>
 ```
+The above code only works in the browser after the image loads
 
+### Today 10.26.23
+### Links of the day [image-size](https://www.npmjs.com/package/image-size)
+``` bash
+npm install image-size --save
+
+```
+Usage
+```js
+const sizeOf = require('image-size')
+
+const dimensions = sizeOf('images/funny-cats.png')
+console.log(dimensions.width, dimensions.height)
+
+let width = sizeOf(file).width;
+let height = sizeOf(file).height;
+
+```
