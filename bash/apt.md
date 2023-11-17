@@ -112,3 +112,6 @@ Security details are available in apt-secure(8).
                                         This APT has Super Cow Powers.
 ```
  
+```
+sudo apt install curl
+```

@@ -99,7 +99,7 @@ Above codes only work in the browser
   </body>
 </html>
 ```
-The above code only works in the browser after the image loads
+The above code only works in the browser after the image loads. The code in the next post works outside the browser
 
 ### Today 10.26.23
 ### Links of the day [image-size](https://www.npmjs.com/package/image-size)
@@ -118,3 +118,10 @@ let width = sizeOf(file).width;
 let height = sizeOf(file).height;
 
 ```
+### Today 11.2.23
+![[Pasted image 20231101113207.png]]
+Not only did I implement the Happenings page in the last 7 days, I solved the puzzle that is [React-Router-Dom Nav-Link](obsidian://open?vault=code-log&file=React-Router-Dom%2FNavLink)
+### Today 11.9.23
+Wow, another week gone that I didn't document here! Again, Beki was here from Friday the third till tomorrow. I did have a couple interactions with Co-pilot that moved me along. I used it to write tests for a function that I wrote. Naturally I had to edit the standards for the tests. Almost all the code I get from AI has to have details adjusted, but sometimes Co-pilot gets a line of code exactly right.
+
+I completed category-form's put of data to the server. The category-form doesn't reset, also, category-context doesn't update categories onSubmit. This lead me to restart learning [React-Query](obsidian://open?vault=code-log&file=React%20Query%2FRQ%20table%20of%20contents)

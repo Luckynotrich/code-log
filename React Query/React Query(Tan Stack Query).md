@@ -1,5 +1,8 @@
 ## [Tanstack Query Over view](https://www.youtube.com/watch?v=lVLz_ASqAio)
+
 ![[Pasted image 20231004111611.png]]
+
+Implementing Tan Stack Query
 ![[Pasted image 20231004112740.png]]
 Import and wrap App in <QueryClientProvider></QueryClientProvider >, create a queryClient. To use Dev tools just add single <ReactQueryDevtools />
 
@@ -9,7 +12,11 @@ Behind the getPosts
 ![[Pasted image 20231004113615.png]]
 Query Key is a unique identifier for the route
 ![[Pasted image 20231004114124.png]]
+the queryKey is the connection to the data. Status and error are just the most common values that can be returned.(see )
+getPosts![[Pasted image 20231109134402.png]]
 React Query caches the results of the query in background and shows the results of updated query when they become available.
+
+ 
 
 useMutation takes a mutate function
 ![[Pasted image 20231004122929.png]]![[Pasted image 20231004123428.png]]
