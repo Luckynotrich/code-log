@@ -7,14 +7,19 @@ npm i @tanstack/react-query-devtools -D
 
 ```js
 	import { QueryClient, QueryClientProvider,useQueryClient} from "@tanstack/react-query"
-	const queryClient = new QueryClient(/* optionally default values here*/);
+	
 ```
 Wrap 
 ```js
-<QueryClientProvider client={queryClient}>/* instantiates RQ functionality*/
-	<App />
+const queryClient = new QueryClient(/* optionally default values here*/);
+
+return (
+<>
+	<QueryClientProvider client={queryClient}>/* instantiates RQ functionality*/
+		<App />
 	<ReactQueryDevtools />
-</QueryClientProvider>
+	</QueryClientProvider>
+</>
 ```
 ![[`Pasted image 20231005092732.png`]]
 The get posts function
