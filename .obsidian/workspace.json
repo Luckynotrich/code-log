@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d7992a59196b8236",
+        "id": "5b6fd8d0f66d9f68",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4caa036842867d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree View Build.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e1efeafb9ac74f88",
+            "id": "134ecf1990ab43cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vite/Setup SCSS In Vite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a42aa896f1b0ab1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Query/Tan Stack Query in 50 Minutes.md",
+                "file": "MUI/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Query/Tan Stack Query in 50 Minutes.md",
+                "file": "MUI/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Query/Tan Stack Query in 50 Minutes.md",
+                "file": "MUI/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Query/Tan Stack Query in 50 Minutes.md"
+                "file": "MUI/Getting Started.md"
               }
             }
           },
@@ -183,29 +156,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a42aa896f1b0ab1f",
+  "active": "134ecf1990ab43cf",
   "lastOpenFiles": [
-    "vite/Setup SCSS In Vite.md",
+    "Pasted image 20231218161035.png",
+    "Pasted image 20231218160809.png",
+    "Pasted image 20231218160334.png",
+    "Pasted image 20231218155711.png",
     "Tree View Build.md",
+    "MUI/Getting Started.md",
+    "Pasted image 20231218155516.png",
+    "Assets/Pasted image 20231212120206.png",
+    "Pasted image 20231218154403.png",
+    "Pasted image 20231218155136.png",
+    "React/Render-a-component-on-button-click-in-React - code-examples.md",
+    "React/Render-a-component-on-button-click-in-React - code-examples.md.part",
+    "Assets/Pasted image 20231211100106.png",
+    "Assets/Pasted image 20231211095856.png",
+    "Assets/Pasted image 20231211092718.png",
+    "vite/Setup SCSS In Vite.md",
     "React Query/Tan Stack Query in 50 Minutes.md",
     "React Query/React Query(Tan Stack Query).md",
-    "Pasted image 20231207133726.png",
     "vite/Vite(Veet) - Getting Started.md",
     "vite/Eslint.md",
-    "Assets/Pasted image 20231207125147.png",
-    "Pasted image 20231207111205.png",
-    "Pasted image 20231207115035.png",
-    "Assets/Pasted image 20231207122742.png",
-    "Assets/Pasted image 20231207115741.png",
-    "Pasted image 20231207112936.png",
-    "Assets/Pasted image 20231207113222.png",
-    "Pasted image 20231207114611.png",
-    "Pasted image 20231207113558.png",
     "Pasted image 20231207092017.odg",
     "lu1349484mi6.tmp",
     "JSON Server - Dave Gray.md",
     "Log 10.20.23.md",
-    "MUI/Getting Started.md",
     "MUI",
     "Cosden  RQ Tutorial.md",
     "FutureSelf React-Query.md",
@@ -224,12 +200,10 @@
     "bash/dpkg.md",
     "Batteries/Small Battery Backup.md",
     "().md",
-    "in/Homemade Corn Tortillas  Mexican Please.md",
     "~/webdev",
     "~",
     "React-Router-Dom",
     "in/Untangle your web development with Snowpack.md.part",
-    "Keystroke detection",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
