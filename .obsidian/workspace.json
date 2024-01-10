@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5b6fd8d0f66d9f68",
+        "id": "0d22629cd39f4743",
         "type": "tabs",
         "children": [
           {
-            "id": "134ecf1990ab43cf",
+            "id": "f7687cd9c6740024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUI/Getting Started.md",
+                "file": "vite/Eslint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27c68b5614d7cb6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Query/React-Query on form submission.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUI/Getting Started.md",
+                "file": "React Query/React-Query on form submission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUI/Getting Started.md",
+                "file": "React Query/React-Query on form submission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUI/Getting Started.md"
+                "file": "React Query/React-Query on form submission.md"
               }
             }
           },
@@ -135,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,54 +171,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "134ecf1990ab43cf",
+  "active": "27c68b5614d7cb6a",
   "lastOpenFiles": [
-    "Pasted image 20231218161035.png",
-    "Pasted image 20231218160809.png",
-    "Pasted image 20231218160334.png",
-    "Pasted image 20231218155711.png",
-    "Tree View Build.md",
-    "MUI/Getting Started.md",
-    "Pasted image 20231218155516.png",
-    "Assets/Pasted image 20231212120206.png",
-    "Pasted image 20231218154403.png",
-    "Pasted image 20231218155136.png",
-    "React/Render-a-component-on-button-click-in-React - code-examples.md",
-    "React/Render-a-component-on-button-click-in-React - code-examples.md.part",
-    "Assets/Pasted image 20231211100106.png",
-    "Assets/Pasted image 20231211095856.png",
-    "Assets/Pasted image 20231211092718.png",
-    "vite/Setup SCSS In Vite.md",
-    "React Query/Tan Stack Query in 50 Minutes.md",
-    "React Query/React Query(Tan Stack Query).md",
-    "vite/Vite(Veet) - Getting Started.md",
+    "React/White Space in React.md",
     "vite/Eslint.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "2024 React Roadmap.md",
+    "Untitled 1.md",
+    "Assets/Pasted image 20240104102019.png",
+    "Assets/Pasted image 20240104102933.png",
+    "React Query/React-Query on form submission.md",
+    "React Query/project setup with Code Evolution.md",
+    "React Query/useMutation with Code Evolution.md",
+    "Pasted image 20240104102327.png",
+    "Assets/Pasted image 20240104095124.png",
+    "Assets/Pasted image 20240104091441.png",
+    "Assets/Pasted image 20240104094639.png",
+    "Assets/Pasted image 20240104094620.png",
+    "Assets/Pasted image 20240104094520.png",
+    "Assets/Pasted image 20240104094215.png",
+    "Assets/Pasted image 20240104091143.png",
+    "JSON/JSON Server.md",
+    "JSON/JSON Database.md",
+    "JSON",
+    "Git and Github/npx gitignore node.md",
+    "React-Hook-Form/Get Started.md",
+    "React Query/RQ table of contents.md",
+    "React Query/React Query(Tan Stack Query).md",
+    "React Query/Pedro Tech.md",
+    "React Query/Tan Stack Query in 50 Minutes.md",
+    "bash/Snap.md",
+    "bash/apt.md",
+    "Git and Github/Branch and Merge.md",
+    "animation/aninmation-notes.md",
+    "Git and Github/Git - Basic Branching and Merging.md",
+    "Git and Github/Git - Basic Branching and Merging.md.part",
+    "Git and Github/Create a GitHub Repo from the Command Line.md",
+    "Git",
+    "MUI/Getting Started.md",
+    "Job Search/jobSearch.md",
+    "Job Search/Random links.md",
+    "Tree View Build.md",
+    "React/Render-a-component-on-button-click-in-React - code-examples.md.part",
     "Pasted image 20231207092017.odg",
     "lu1349484mi6.tmp",
-    "JSON Server - Dave Gray.md",
-    "Log 10.20.23.md",
     "MUI",
-    "Cosden  RQ Tutorial.md",
-    "FutureSelf React-Query.md",
-    "React Query/RQ table of contents.md",
-    "React Query/Pedro Tech.md",
-    "Config.md",
     "Eslint",
-    "React/React PropTypes.md",
-    "JavaScript/How to convert UUID to String and vice versa in javascript.md",
     "JavaScript",
-    "nodejs/upgrade 2023 -11-17.md",
-    "bash/apt.md",
-    "bash/Snap.md",
-    "nodejs/Nodejs https for development.md",
-    "React Context & Hooks Net Ninja.md",
-    "bash/dpkg.md",
-    "Batteries/Small Battery Backup.md",
-    "().md",
     "~/webdev",
-    "~",
-    "React-Router-Dom",
-    "in/Untangle your web development with Snowpack.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
