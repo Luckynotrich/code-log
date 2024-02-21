@@ -1,5 +1,5 @@
 I set out to create multiple text input fields that referenced data in the db. This is the basic concept. 
-```
+``` js
 import React from "react";
 import { useForm, useWatch, useFieldArray } from "react-hook-form";
 import "./styles.css";

@@ -27,3 +27,6 @@ Values including colors and icons can be imported from Mui. The above is not a s
 Select the fonts you wish to use in all the weight used by Mui and select the import option and paste them into css.
 ![[Pasted image 20231218161035.png]]
 Then paste the name of the fontFamily into your theme, along with  weights for the various values.
+
+A theme creator web page
+![[Pasted image 20240206125324.png]]

@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "LYT Mode",
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 12
 }

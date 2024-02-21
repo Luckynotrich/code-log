@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Get Started with Mocha, Nodejs.md",
+                "file": "css/CSS Layout - Horizontal & Vertical Align.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "942ee77bb7ff3ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Get Started with Mocha, Nodejs.md",
+                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Get Started with Mocha, Nodejs.md",
+                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Get Started with Mocha, Nodejs.md"
+                "file": "MUI/Media Query-Material UI V5-Grep Soft.md"
               }
             }
           },
@@ -158,54 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a716cf5637aae19a",
+  "active": "942ee77bb7ff3ac4",
   "lastOpenFiles": [
-    "().md",
-    "JavaScript/Get Started with Mocha, Nodejs.md",
-    "JavaScript/setInterval and setTimeOut Properly.md",
-    "Ubuntu Pro.md",
-    "bash/apt.md",
-    "bash/Snap.md",
-    "JavaScript/filter undefined array elements.md",
-    "JavaScript/How to convert UUID to String and vice versa in javascript.md",
-    "Pasted image 20240124112120.png",
-    "React-Hook-Form/ConnectForm - deep nested forms.md",
-    "Untitled.md",
-    "React/Link from The Ninja.md",
-    "React/Use History.md",
-    "Pasted image 20240116073459.png",
-    "Pasted image 20240116072630.png",
-    "Pasted image 20240116072333.png",
-    "Pasted image 20240116071150.png",
-    "Pasted image 20240112102646.png",
-    "Pasted image 20240112102031.png",
-    "Pasted image 20240112101811.png",
-    "Pasted image 20240112101721.png",
-    "React/White Space in React.md",
-    "Pasted image 20240111094728.png",
-    "React/Inline Style in React.md",
-    "vite/Eslint.md",
-    "React Query/React-Query on form submission.md",
+    "css/flex - CSS Cascading Style Sheets  MDN.md",
+    "css/Style Radio inputs.md",
+    "css/How to use Font Awesome Icons in CSS as background image.md",
+    "css/A checklist for choosing type – Fonts Knowledge - Google Fonts.md",
+    "MUI/Dynamic Theme - Grep Soft.md",
+    "Pasted image 20240221131513.png",
+    "css/CSS Layout - Horizontal & Vertical Align.md",
+    "MUI/Media Query-Material UI V5-Grep Soft.md",
+    "Pasted image 20240221130528.png",
+    "Pasted image 20240221130419.png",
+    "Pasted image 20240221130331.png",
+    "Pasted image 20240221130115.png",
+    "Pasted image 20240221125929.png",
+    "css/Screenshot from 2023-06-13 13-45-23.png",
+    "css/wrapper-and-select.png",
+    "css/text-wrap-balance.png",
     "vite/Vite(Veet) - Getting Started.md",
-    "2024 React Roadmap.md",
-    "React Query/project setup with Code Evolution.md",
-    "React Query/useMutation with Code Evolution.md",
-    "JSON/JSON Server.md",
-    "JSON/JSON Database.md",
+    "Pasted image 20240221103138.png",
+    "HTML/RDF-Resource Description Framework.md",
+    "css/flex - CSS Cascading Style Sheets  MDN.md.part",
+    "ISSUES.md",
+    "Config.md",
+    "FutureSelf React-Query.md",
+    "Tree View Build.md",
+    "MUI/Getting Started.md",
+    "Use Non-Breaking Space to create space.md",
+    "HTML",
+    "().md",
+    "React/PropTypes/How to Use PropTypes in React.md",
+    "Untitled 1.md",
+    "React/PropTypes/Usage.md",
+    "React/React Prop-types.md",
+    "React/PropTypes/How to Use PropTypes in React.md.part",
+    "React/PropTypes",
+    "React/PropTypes/React PropTypes.md",
+    "Git and Github/Branch and Merge.md",
+    "React-Hook-Form/multiple-useFieldArray.md",
+    "React-Hook-Form/Form Fields as an Array.md",
+    "React-Hook-Form/ConnectForm - deep nested forms.md",
     "JSON",
-    "Git and Github/npx gitignore node.md",
-    "React-Hook-Form/Get Started.md",
-    "React Query/RQ table of contents.md",
-    "React Query/React Query(Tan Stack Query).md",
     "Git and Github/Git - Basic Branching and Merging.md.part",
     "Git",
     "React/Render-a-component-on-button-click-in-React - code-examples.md.part",
     "Pasted image 20231207092017.odg",
     "lu1349484mi6.tmp",
-    "MUI",
-    "Eslint",
-    "JavaScript",
-    "~/webdev",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
