@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUI/Theme colors-Palette Myron Schippers.md",
+                "file": "React/Data List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUI/Theme colors-Palette Myron Schippers.md",
+                "file": "React/Data List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUI/Theme colors-Palette Myron Schippers.md",
+                "file": "React/Data List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUI/Theme colors-Palette Myron Schippers.md"
+                "file": "React/Data List.md"
               }
             }
           },
@@ -160,12 +160,18 @@
   },
   "active": "942ee77bb7ff3ac4",
   "lastOpenFiles": [
+    "React/Console.log inside component.md",
+    "React/Data List.md",
+    "Pasted image 20240306134935.png",
+    "MUI/Dynamic Theme - Grep Soft.md",
+    "JavaScript/Getting Font Size.md",
+    "React/Capture window width.md",
+    "MUI/Theme colors-Palette Myron Schippers.md",
     "Pasted image 20240229091841.png",
     "Pasted image 20240229091235.png",
     "Pasted image 20240229090528.png",
     "Pasted image 20240229084819.png",
     "MUI/Media Query-Material UI V5-Grep Soft.md",
-    "MUI/Theme colors-Palette Myron Schippers.md",
     "Ubuntu/Find what Desktop Environment.md",
     "Pasted image 20240228094112.png",
     "JavaScript/Capture window width.md",
@@ -181,22 +187,15 @@
     "React/White Space in React.md",
     "JavaScript/Get Started with Mocha, Nodejs.md",
     "JavaScript/setInterval and setTimeOut Properly.md",
-    "React/Capture window width.md",
     "Css/Screenshot from 2023-06-13 13-45-23.png",
-    "React/Console.log inside component.md",
     "Bash/apt.md",
     "Bash/Snap.md",
     "vite/Eslint.md",
     "Css/css-flexbox-chart.png",
     "vite/vite-notes.md",
     "ISSUES.md",
-    "Banner Bank.md",
-    "FutureSelf React-Query.md",
     "Assets/Pasted image 20240220123604.png",
     "Assets/Pasted image 20240221131513.png",
-    "sass/scripting_notes.md",
-    "Assets/Pasted image 20240221130528.png",
-    "Assets/Pasted image 20240221130419.png",
     "css/flex - CSS Cascading Style Sheets  MDN.md.part",
     "HTML",
     "React/PropTypes/How to Use PropTypes in React.md.part",

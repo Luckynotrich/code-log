@@ -1,4 +1,5 @@
 This will display 'undefined' on UI 
 ```
-{`${console.log('value.value = ',value.value)}`}
+`${console.log('cat.name =',cat.name)}`
 ```
+
