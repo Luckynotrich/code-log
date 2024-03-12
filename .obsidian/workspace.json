@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a22ee58e646e2f1d",
+        "id": "00f6c653e074dbd7",
         "type": "tabs",
         "children": [
           {
-            "id": "942ee77bb7ff3ac4",
+            "id": "d05d32858db125c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Data List.md",
+                "file": "Express/Delete (basic).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Data List.md",
+                "file": "Express/Delete (basic).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Data List.md",
+                "file": "Express/Delete (basic).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Data List.md"
+                "file": "Express/Delete (basic).md"
               }
             }
           },
@@ -158,22 +158,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "942ee77bb7ff3ac4",
+  "active": "d05d32858db125c0",
   "lastOpenFiles": [
-    "React/Console.log inside component.md",
+    "SQL and psql/DELETE CASCADE With Examples.md",
+    "Express/Delete (basic).md",
+    "Express",
+    "SQL and psql/DROP CONSTRAINT.md",
+    "SQL and psql/Copy Table.md",
+    "Assets/Pasted image 20240306134935.png",
+    "SQL and psql/Delete.md",
+    "React/Refresh Detection.md",
+    "SQL and psql",
+    "Css/CSS Variable.md",
+    "React/use-refresh-detection.js",
     "React/Data List.md",
-    "Pasted image 20240306134935.png",
+    "React/Console.log inside component.md",
     "MUI/Dynamic Theme - Grep Soft.md",
     "JavaScript/Getting Font Size.md",
     "React/Capture window width.md",
     "MUI/Theme colors-Palette Myron Schippers.md",
-    "Pasted image 20240229091841.png",
-    "Pasted image 20240229091235.png",
-    "Pasted image 20240229090528.png",
-    "Pasted image 20240229084819.png",
+    "Assets/Pasted image 20240229091841.png",
+    "Assets/Pasted image 20240229091235.png",
+    "Assets/Pasted image 20240229090528.png",
+    "Assets/Pasted image 20240229084819.png",
     "MUI/Media Query-Material UI V5-Grep Soft.md",
     "Ubuntu/Find what Desktop Environment.md",
-    "Pasted image 20240228094112.png",
+    "Assets/Pasted image 20240228094112.png",
     "JavaScript/Capture window width.md",
     "JavaScript/Sort Two Arrays For Common Elements.md",
     "JavaScript/Filter Undefined Array Elements.md",
@@ -186,14 +196,8 @@
     "Ubuntu",
     "React/White Space in React.md",
     "JavaScript/Get Started with Mocha, Nodejs.md",
-    "JavaScript/setInterval and setTimeOut Properly.md",
     "Css/Screenshot from 2023-06-13 13-45-23.png",
-    "Bash/apt.md",
-    "Bash/Snap.md",
-    "vite/Eslint.md",
     "Css/css-flexbox-chart.png",
-    "vite/vite-notes.md",
-    "ISSUES.md",
     "Assets/Pasted image 20240220123604.png",
     "Assets/Pasted image 20240221131513.png",
     "css/flex - CSS Cascading Style Sheets  MDN.md.part",
@@ -202,9 +206,6 @@
     "React/PropTypes",
     "JSON",
     "Git and Github/Git - Basic Branching and Merging.md.part",
-    "Git",
-    "React/Render-a-component-on-button-click-in-React - code-examples.md.part",
-    "Pasted image 20231207092017.odg",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
