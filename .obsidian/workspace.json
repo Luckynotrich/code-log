@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJS/Getting Started.md",
+                "file": "Express/Passport.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/Getting Started.md",
+                "file": "Express/Passport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJS/Getting Started.md",
+                "file": "Express/Passport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/Getting Started.md"
+                "file": "Express/Passport.md"
               }
             }
           },
@@ -160,14 +160,14 @@
   },
   "active": "2e84c531fa571ebd",
   "lastOpenFiles": [
-    "Express/Session.md",
-    "Screenshot from 2024-03-18 18-36-57.png",
-    "Express/Passport.md",
-    "Express/Bcrypt.md",
-    "Pasted image 20240318113441.png",
-    "Express/URL Encoded.md",
-    "Express/Passport",
     "EJS/Getting Started.md",
+    "Express/Bcrypt.md",
+    "Express/Session.md",
+    "Express/Passport.md",
+    "Express/URL Encoded.md",
+    "Screenshot from 2024-03-18 18-36-57.png",
+    "Pasted image 20240318113441.png",
+    "Express/Passport",
     "vite/Vite(Veet) - Getting Started.md",
     "EJS",
     "MUI/Media Query-Material UI V5-Grep Soft.md",
