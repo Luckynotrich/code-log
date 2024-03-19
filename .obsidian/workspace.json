@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
+                "file": "EJS/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
+                "file": "EJS/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUI/Media Query-Material UI V5-Grep Soft.md",
+                "file": "EJS/Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUI/Media Query-Material UI V5-Grep Soft.md"
+                "file": "EJS/Getting Started.md"
               }
             }
           },
@@ -160,6 +160,17 @@
   },
   "active": "2e84c531fa571ebd",
   "lastOpenFiles": [
+    "Express/Session.md",
+    "Screenshot from 2024-03-18 18-36-57.png",
+    "Express/Passport.md",
+    "Express/Bcrypt.md",
+    "Pasted image 20240318113441.png",
+    "Express/URL Encoded.md",
+    "Express/Passport",
+    "EJS/Getting Started.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "EJS",
+    "MUI/Media Query-Material UI V5-Grep Soft.md",
     "React/Console.log inside component.md",
     "Express/Delete (basic).md",
     "SQL and psql/DELETE CASCADE With Examples.md",
@@ -181,31 +192,19 @@
     "Assets/Pasted image 20240229091235.png",
     "Assets/Pasted image 20240229090528.png",
     "Assets/Pasted image 20240229084819.png",
-    "MUI/Media Query-Material UI V5-Grep Soft.md",
     "Ubuntu/Find what Desktop Environment.md",
     "Assets/Pasted image 20240228094112.png",
     "JavaScript/Capture window width.md",
     "JavaScript/Sort Two Arrays For Common Elements.md",
     "JavaScript/Filter Undefined Array Elements.md",
     "Bash/rsync_help.md",
-    "React/React Date Picker.md",
-    "Ubuntu/Find USB drive from CL.md",
-    "Tree View Build.md",
-    "HTML/Use Non-Breaking Space to create space.md",
-    "Css/CSS Layout - Horizontal & Vertical Align.md",
     "Ubuntu",
-    "React/White Space in React.md",
-    "JavaScript/Get Started with Mocha, Nodejs.md",
     "Css/Screenshot from 2023-06-13 13-45-23.png",
     "Css/css-flexbox-chart.png",
-    "Assets/Pasted image 20240220123604.png",
-    "Assets/Pasted image 20240221131513.png",
     "css/flex - CSS Cascading Style Sheets  MDN.md.part",
     "HTML",
     "React/PropTypes/How to Use PropTypes in React.md.part",
     "React/PropTypes",
-    "JSON",
-    "Git and Github/Git - Basic Branching and Merging.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
