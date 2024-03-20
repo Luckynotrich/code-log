@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express/Passport.md",
+                "file": "nodejs/npm-run-all.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1944342ee3cddfa3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express/Passport.md",
+                "file": "nodejs/npm-run-all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express/Passport.md",
+                "file": "nodejs/npm-run-all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express/Passport.md"
+                "file": "nodejs/npm-run-all.md"
               }
             }
           },
@@ -160,10 +170,13 @@
   },
   "active": "2e84c531fa571ebd",
   "lastOpenFiles": [
+    "JSON/JSON Server.md",
+    "nodejs/npm-run-all.md",
+    "JSON/JSON Database.md",
+    "Express/Passport.md",
     "EJS/Getting Started.md",
     "Express/Bcrypt.md",
     "Express/Session.md",
-    "Express/Passport.md",
     "Express/URL Encoded.md",
     "Screenshot from 2024-03-18 18-36-57.png",
     "Pasted image 20240318113441.png",
@@ -196,8 +209,6 @@
     "Assets/Pasted image 20240228094112.png",
     "JavaScript/Capture window width.md",
     "JavaScript/Sort Two Arrays For Common Elements.md",
-    "JavaScript/Filter Undefined Array Elements.md",
-    "Bash/rsync_help.md",
     "Ubuntu",
     "Css/Screenshot from 2023-06-13 13-45-23.png",
     "Css/css-flexbox-chart.png",
