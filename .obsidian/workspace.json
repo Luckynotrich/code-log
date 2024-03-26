@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Css/Hero Image.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52bd8fe57a893fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Authentication in Web Apps.md",
+                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +29,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8bc24c7189e0c9a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f244da60ade98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express/Connect-pg-simple Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -108,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Authentication in Web Apps.md",
+                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Authentication in Web Apps.md",
+                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Authentication in Web Apps.md"
+                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md"
               }
             }
           },
@@ -181,54 +187,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52bd8fe57a893fa9",
+  "active": "2e84c531fa571ebd",
   "lastOpenFiles": [
-    "Pasted image 20240325101702.png",
-    "Pasted image 20240325101205.png",
-    "Pasted image 20240325101020.png",
+    "Express/Connect-pg-simple Table.md",
+    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+    "Express/Socket.IO.md",
+    "Express/Session and Passport",
+    "Express/Passport.md",
+    "Express/Session.md",
+    "SQL, psql and PostgreSQL/Postgresql/Creating a Database.md",
+    "Pasted image 20240326120612.png",
+    "Pasted image 20240326120534.png",
+    "Pasted image 20240326120437.png",
     "User Authentication in Web Apps.md",
-    "Pasted image 20240325094350.png",
-    "Pasted image 20240325093126.png",
-    "Pasted image 20240325092941.png",
     "Css/Hero Image.md",
-    "Css/wrapper-and-select.png",
-    "Css/clamp.png",
+    "Express/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
+    "SQL, psql and PostgreSQL/Postgresql/Exploring PostgreSQL Port What it is and How to Configure it.md",
+    "PASS/Read-Unread enhancement.md",
+    "Assets/Pasted image 20240318113441.png",
+    "in/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md.part",
+    "SQL, psql and PostgreSQL/Postgresql",
+    "Assets/Pasted image 20240325101702.png",
+    "Assets/Pasted image 20240325101205.png",
+    "Pasted image 20240325101020.png",
+    "Assets/Pasted image 20240325094350.png",
+    "Assets/Pasted image 20240325093126.png",
+    "Assets/Pasted image 20240325092941.png",
     "Css/Text Wrap.md",
-    "Assets/text-wrap-balance.png",
     "nodejs/npm-run-all.md",
     "files.txt",
     "JSON/JSON Server.md",
     "JSON/JSON Database.md",
-    "Express/Passport.md",
     "EJS/Getting Started.md",
     "Express/Bcrypt.md",
-    "Express/Session.md",
     "Express/URL Encoded.md",
-    "Screenshot from 2024-03-18 18-36-57.png",
-    "Pasted image 20240318113441.png",
     "Express/Passport",
     "vite/Vite(Veet) - Getting Started.md",
     "EJS",
     "MUI/Media Query-Material UI V5-Grep Soft.md",
     "React/Console.log inside component.md",
     "Express/Delete (basic).md",
-    "SQL and psql/DELETE CASCADE With Examples.md",
+    "SQL, psql and PostgreSQL/DELETE CASCADE With Examples.md",
     "Express",
-    "SQL and psql/DROP CONSTRAINT.md",
-    "SQL and psql/Copy Table.md",
-    "SQL and psql/Delete.md",
-    "React/Refresh Detection.md",
-    "SQL and psql",
-    "Css/CSS Variable.md",
+    "SQL, psql and PostgreSQL/DROP CONSTRAINT.md",
+    "SQL, psql and PostgreSQL/Copy Table.md",
+    "SQL, psql and PostgreSQL/Delete.md",
+    "SQL, psql and PostgreSQL",
     "React/use-refresh-detection.js",
-    "React/Data List.md",
-    "MUI/Dynamic Theme - Grep Soft.md",
-    "JavaScript/Getting Font Size.md",
-    "React/Capture window width.md",
     "Ubuntu",
-    "css/flex - CSS Cascading Style Sheets  MDN.md.part",
-    "HTML",
-    "React/PropTypes/How to Use PropTypes in React.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
