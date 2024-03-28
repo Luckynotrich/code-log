@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "732b2f09226b717a",
+        "id": "0bc49901fd5aa296",
         "type": "tabs",
+        "dimension": 75.69721115537848,
         "children": [
           {
-            "id": "2e84c531fa571ebd",
+            "id": "dec883f26352606e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,30 +19,21 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1944342ee3cddfa3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ]
       },
       {
-        "id": "8bc24c7189e0c9a5",
+        "id": "543e43c8ca384845",
         "type": "tabs",
+        "dimension": 24.302788844621514,
         "children": [
           {
-            "id": "14f244da60ade98c",
+            "id": "9c3091986589f2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express/Connect-pg-simple Table.md",
+                "file": "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -187,54 +178,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e84c531fa571ebd",
+  "active": "dec883f26352606e",
   "lastOpenFiles": [
-    "Express/Connect-pg-simple Table.md",
+    "HTML/Use Non-Breaking Space to create space.md",
     "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+    "Express/Delete (basic).md",
     "Express/Socket.IO.md",
-    "Express/Session and Passport",
-    "Express/Passport.md",
+    "Express/Session and Passport/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
     "Express/Session.md",
-    "SQL, psql and PostgreSQL/Postgresql/Creating a Database.md",
+    "Css/Choosing Font type.md",
+    "Css/Grid Layout.md",
+    "Css/CSS Layout - Horizontal & Vertical Align.md",
+    "Css/css-flexbox-chart.png",
+    "SQL, psql and PostgreSQL/DROP.md",
+    "SQL, psql and PostgreSQL/CREATE USER.md",
+    "HTML/Link to Style Sheet.md",
+    "HTML/Object fille.pdf.md",
+    "HTML/Iframe file.pdf.md",
+    "HTML/W3 Schools Reference.md",
+    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
+    "Browser/Can I Use.md",
+    "vsCode/Emmet.md",
+    "vsCode",
+    "Browser",
+    "SQL, psql and PostgreSQL/Copy Table.md",
+    "SQL, psql and PostgreSQL/ALTER ROLE.md",
+    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
+    "Bash/Grep.md",
+    "EJS/Getting Started.md",
+    "Log 10.20.23.md",
+    "Pasted image 20240327101152.png",
+    "Pasted image 20240327101019.png",
+    "SQL, psql and PostgreSQL/psql/psql command line tutorial and cheat sheet  postgres.md.part",
+    "SQL, psql and PostgreSQL/psql",
+    "Job Search/My Strengths.md",
+    "FutureSelf React-Query.md",
+    "Express/Session and Passport",
     "Pasted image 20240326120612.png",
     "Pasted image 20240326120534.png",
     "Pasted image 20240326120437.png",
-    "User Authentication in Web Apps.md",
-    "Css/Hero Image.md",
-    "Express/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
-    "SQL, psql and PostgreSQL/Postgresql/Exploring PostgreSQL Port What it is and How to Configure it.md",
-    "PASS/Read-Unread enhancement.md",
     "Assets/Pasted image 20240318113441.png",
     "in/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md.part",
     "SQL, psql and PostgreSQL/Postgresql",
     "Assets/Pasted image 20240325101702.png",
     "Assets/Pasted image 20240325101205.png",
     "Pasted image 20240325101020.png",
-    "Assets/Pasted image 20240325094350.png",
-    "Assets/Pasted image 20240325093126.png",
-    "Assets/Pasted image 20240325092941.png",
-    "Css/Text Wrap.md",
-    "nodejs/npm-run-all.md",
     "files.txt",
-    "JSON/JSON Server.md",
-    "JSON/JSON Database.md",
-    "EJS/Getting Started.md",
-    "Express/Bcrypt.md",
-    "Express/URL Encoded.md",
     "Express/Passport",
-    "vite/Vite(Veet) - Getting Started.md",
     "EJS",
-    "MUI/Media Query-Material UI V5-Grep Soft.md",
-    "React/Console.log inside component.md",
-    "Express/Delete (basic).md",
-    "SQL, psql and PostgreSQL/DELETE CASCADE With Examples.md",
-    "Express",
-    "SQL, psql and PostgreSQL/DROP CONSTRAINT.md",
-    "SQL, psql and PostgreSQL/Copy Table.md",
-    "SQL, psql and PostgreSQL/Delete.md",
-    "SQL, psql and PostgreSQL",
-    "React/use-refresh-detection.js",
-    "Ubuntu",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
