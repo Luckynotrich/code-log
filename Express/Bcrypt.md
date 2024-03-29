@@ -1,3 +1,5 @@
+# [bcrypt](https://www.npmjs.com/package/bcrypt)
+
 ```
 npm i bcrypt
 ```
@@ -24,4 +26,15 @@ app.post('/register', async (req, res) => {
 }
 ```
 ![[Pasted image 20240318113441.png]]
-k
+
+#### To check a password:
+
+```js
+// Load hash from your password DB.
+bcrypt.compare(myPlaintextPassword, hash, function(err, result) {
+    // result == true
+});
+bcrypt.compare(someOtherPlaintextPassword, hash, function(err, result) {
+    // result == false
+});
+```
