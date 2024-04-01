@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express/Session and Passport/Implementing User Authentication -C.Bailey.md"
+                "file": "Git and Github/Create a GitHub Repo from the Command Line.md"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "9c3091986589f2b7",
   "lastOpenFiles": [
+    "Git and Github/npx gitignore node.md",
+    "Css/CSS Reference.md",
+    "HTML/Use Non-Breaking Space to create space.md",
+    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
     "Express/Passport.md",
     "Express/Bcrypt.md",
     "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
@@ -171,8 +175,6 @@
     "SQL, psql and PostgreSQL/Postgresql/Exploring PostgreSQL Port What it is and How to Configure it.md",
     "Express/Flash.md",
     "Untitled.md",
-    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
-    "HTML/Use Non-Breaking Space to create space.md",
     "Express/Delete (basic).md",
     "Express/Socket.IO.md",
     "Express/Session and Passport/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
@@ -186,8 +188,6 @@
     "HTML/Link to Style Sheet.md",
     "HTML/Object fille.pdf.md",
     "HTML/Iframe file.pdf.md",
-    "HTML/W3 Schools Reference.md",
-    "Browser/Can I Use.md",
     "vsCode",
     "Browser",
     "Assets/Pasted image 20240327101019.png",
