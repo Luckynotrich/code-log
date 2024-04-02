@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
+                "file": "Git and Github/git push --force.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 317.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
+                "file": "Git and Github/git push --force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md",
+                "file": "Git and Github/git push --force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Create a GitHub Repo from the Command Line.md"
+                "file": "Git and Github/git push --force.md"
               }
             }
           },
@@ -160,10 +160,21 @@
   },
   "active": "9c3091986589f2b7",
   "lastOpenFiles": [
+    "VI/Searching and Replacing.md",
+    "Git and Github/git push --force.md",
+    "VI/Save As.md",
+    "JSON Server - Dave Gray.md",
+    "VI",
+    "ISSUES.md",
+    "Untitled 1.md",
+    "Git and Github/How to Undo a Git Add.md",
+    "Git and Github/CreateGitHubRepo-CL.md",
+    "EJS/Getting Started.md",
+    "HTML/HowToPost W AnchorTag.md",
+    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
     "Git and Github/npx gitignore node.md",
     "Css/CSS Reference.md",
     "HTML/Use Non-Breaking Space to create space.md",
-    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
     "Express/Passport.md",
     "Express/Bcrypt.md",
     "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
@@ -177,17 +188,7 @@
     "Untitled.md",
     "Express/Delete (basic).md",
     "Express/Socket.IO.md",
-    "Express/Session and Passport/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
-    "Express/Session.md",
-    "Css/Choosing Font type.md",
-    "Css/Grid Layout.md",
-    "Css/CSS Layout - Horizontal & Vertical Align.md",
     "Css/css-flexbox-chart.png",
-    "SQL, psql and PostgreSQL/DROP.md",
-    "SQL, psql and PostgreSQL/CREATE USER.md",
-    "HTML/Link to Style Sheet.md",
-    "HTML/Object fille.pdf.md",
-    "HTML/Iframe file.pdf.md",
     "vsCode",
     "Browser",
     "Assets/Pasted image 20240327101019.png",
@@ -205,7 +206,6 @@
     "Pasted image 20240325101020.png",
     "files.txt",
     "Express/Passport",
-    "EJS",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

@@ -32,3 +32,5 @@ TypeError: Client was passed a null or undefined query
 Node.js v20.9.0
 
 ```
+
+[Adding logout](https://www.youtube.com/watch?v=vxu1RrR0vbw&t=4923s)
