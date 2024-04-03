@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/git push --force.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/git push --force.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/git push --force.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/git push --force.md"
+                "file": "Git and Github/Branch and Merge.md"
               }
             }
           },
@@ -160,8 +160,23 @@
   },
   "active": "9c3091986589f2b7",
   "lastOpenFiles": [
-    "VI/Searching and Replacing.md",
+    "Git and Github/checkout -b.md",
+    "Git and Github/Git - Basic Branching and Merging.md",
+    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
+    "Express/Session and Passport/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
+    "SQL, psql and PostgreSQL/ALTER TABLE.md",
+    "SQL, psql and PostgreSQL/CREATE USER.md",
+    "SQL, psql and PostgreSQL/Postgresql/Creating a Database.md",
+    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
+    "SQL, psql and PostgreSQL/Copy Table.md",
+    "Express/session-file-store.md",
+    "Express/Connect-pg-simple Table.md",
+    "Express/Passport.md",
+    "Express/Session.md",
+    "2024 React Roadmap.md",
+    "Bash/rsync_help.md",
     "Git and Github/git push --force.md",
+    "VI/Searching and Replacing.md",
     "VI/Save As.md",
     "JSON Server - Dave Gray.md",
     "VI",
@@ -171,23 +186,8 @@
     "Git and Github/CreateGitHubRepo-CL.md",
     "EJS/Getting Started.md",
     "HTML/HowToPost W AnchorTag.md",
-    "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
     "Git and Github/npx gitignore node.md",
-    "Css/CSS Reference.md",
-    "HTML/Use Non-Breaking Space to create space.md",
-    "Express/Passport.md",
-    "Express/Bcrypt.md",
-    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
-    "Express/Untitled.md",
     "Assets/Pasted image 20240327101152.png",
-    "SQL, psql and PostgreSQL/ALTER TABLE.md",
-    "SQL, psql and PostgreSQL/ALTER ROLE.md",
-    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
-    "SQL, psql and PostgreSQL/Postgresql/Exploring PostgreSQL Port What it is and How to Configure it.md",
-    "Express/Flash.md",
-    "Untitled.md",
-    "Express/Delete (basic).md",
-    "Express/Socket.IO.md",
     "Css/css-flexbox-chart.png",
     "vsCode",
     "Browser",
