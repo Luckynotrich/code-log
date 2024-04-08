@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL, psql and PostgreSQL/Copy Table.md",
+                "file": "HTML/anchor link.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL, psql and PostgreSQL/Copy Table.md",
+                "file": "HTML/anchor link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL, psql and PostgreSQL/Copy Table.md",
+                "file": "HTML/anchor link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL, psql and PostgreSQL/Copy Table.md"
+                "file": "HTML/anchor link.md"
               }
             }
           },
@@ -160,37 +160,38 @@
   },
   "active": "9c3091986589f2b7",
   "lastOpenFiles": [
-    "SQL, psql and PostgreSQL/ALTER TABLE.md",
-    "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md",
+    "Css/Horizontal & Vertical Align.md",
+    "Css/CSS Reference.md",
+    "Css/CSS Variable.md",
+    "EJS/EJS variable as link.md",
+    "EJS/Getting Started.md",
     "Git and Github/Branch and Merge.md",
-    "Git and Github/checkout -b.md",
+    "Express/Socket.IO.md",
+    "Express/Multer-file upload.md",
+    "Css/flex - CSS Cascading Style Sheets  MDN.md",
+    "Css/float.md",
+    "Css/Articles",
+    "Css/Grid Layout.md",
+    "HTML/W3 Schools Reference.md",
+    "HTML/anchor link.md",
+    "SQL, psql and PostgreSQL/Postgresql/pg_lsclusters.md",
     "SQL, psql and PostgreSQL/Postgresql/Upgrade PostgreSQL 14 to 16 with pg_upgrade.md",
-    "Job Search/Random links.md",
-    "Job Search/jobSearch.md",
-    "Bash/Fixing the apt-key problem in Ubuntu.  by Brian Blankenship  Nerd For Tech  Medium.md",
-    "Bash/sh vs bash.md",
-    "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",
-    "SQL, psql and PostgreSQL/Postgresql/pg_upgrade.md",
-    "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
-    "SQL, psql and PostgreSQL/Postgresql/Find PostgreSQL version.md",
-    "SQL, psql and PostgreSQL/CREATE USER.md",
-    "SQL, psql and PostgreSQL/ALTER ROLE.md",
-    "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md.part",
-    "SQL, psql and PostgreSQL/psql/Export PostgreSQL data to JSON file.md",
-    "Git and Github/Git - Basic Branching and Merging.md",
+    "SQL, psql and PostgreSQL/Postgresql/pg_dump & pg_restore Guide.md",
+    "Css/css-flexbox-chart.png",
     "Express/Session and Passport/Implementing User Authentication -C.Bailey.md",
-    "Express/Session and Passport/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md",
     "SQL, psql and PostgreSQL/Postgresql/Creating a Database.md",
-    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
     "SQL, psql and PostgreSQL/Copy Table.md",
-    "Express/session-file-store.md",
-    "Express/Connect-pg-simple Table.md",
-    "Express/Passport.md",
-    "Express/Session.md",
-    "2024 React Roadmap.md",
+    "SQL, psql and PostgreSQL/CREATE USER.md",
+    "SQL, psql and PostgreSQL/psql/pg_dump Documentation.md",
+    "SQL, psql and PostgreSQL/psql/pg_dump Description.md",
+    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
+    "SQL, psql and PostgreSQL/ALTER TABLE.md",
+    "Job Search/Random links.md",
+    "Bash/apt.md",
+    "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",
+    "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md.part",
     "VI",
     "Assets/Pasted image 20240327101152.png",
-    "Css/css-flexbox-chart.png",
     "vsCode",
     "Browser",
     "Assets/Pasted image 20240327101019.png",
@@ -202,7 +203,6 @@
     "Pasted image 20240326120437.png",
     "Assets/Pasted image 20240318113441.png",
     "in/ExpressJS PostgreSQL Session Store  by Fedor Selenskiy  Level Up Coding.md.part",
-    "SQL, psql and PostgreSQL/Postgresql",
     "Assets/Pasted image 20240325101702.png",
     "Assets/Pasted image 20240325101205.png",
     "Pasted image 20240325101020.png",

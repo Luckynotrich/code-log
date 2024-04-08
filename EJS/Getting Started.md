@@ -1,4 +1,4 @@
-#### [Embedded JavaScript templating.](https://ejs.co/#install)
+e#### [Embedded JavaScript templating.](https://ejs.co/#install)
 
 
 ```bash
@@ -6,8 +6,8 @@ npm install ejs
 ```
 
 ```  Shell
-touch ./view
-touch ./view/index.ejs
+mkdir ./views
+touch ./views/index.ejs
 ```
 
 basic usage
