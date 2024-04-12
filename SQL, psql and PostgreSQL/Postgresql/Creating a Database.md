@@ -1,4 +1,5 @@
 ## [1.3. Creating a Database](https://www.postgresql.org/docs/current/tutorial-createdb.html)
+At the bash prompt:
 ```
 createdb mydb
 ```
