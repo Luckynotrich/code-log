@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodejs/Update NPM Dependencies.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/Update NPM Dependencies.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodejs/Update NPM Dependencies.md",
+                "file": "Git and Github/Branch and Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodejs/Update NPM Dependencies.md"
+                "file": "Git and Github/Branch and Merge.md"
               }
             }
           },
@@ -160,52 +160,51 @@
   },
   "active": "1300f28baf7a9cd7",
   "lastOpenFiles": [
-    "SQL, psql and PostgreSQL/Postgresql/UPDATE.md",
+    "Assets/Pasted image 20240420151523.png",
+    "JavaScript/EJS, Form target, history.md",
+    "JavaScript/setInterval and setTimeOut Properly.md",
+    "HTML/Form Submission Opens New TabWindow  CSS-Tricks - CSS-Tricks.md",
+    "Express/res.sendFile() Open New Browser Window.md",
+    "HTML/Form Submission Opens New Tab or Window.md",
+    "Express/express() 4.x API.md",
+    "JSON/W3 JSON - Introduction.md",
+    "JavaScript/W3 JavaScript Reference.md",
+    "JavaScript/Filter Undefined Array Elements.md",
+    "JavaScript/Parse Int.md",
+    "Bash/find  -  bash.md",
     "nodejs/Update NPM Dependencies.md",
+    "Bash/Grep.md",
+    "Batteries/Battery Discharge Calculation.md",
+    "Batteries/Battery Notes.md",
+    "Express/Session and Passport/Page Views Session Storage.md",
+    "Assets/Pasted image 20240412154503.png",
+    "Assets/Pasted image 20240412153943.png",
+    "Pasted image 20240412153914.png",
+    "Assets/Pasted image 20240412153742.png",
+    "Assets/Pasted image 20240412153532.png",
+    "Assets/Pasted image 20240412153430.png",
+    "Pasted image 20240412153302.png",
+    "Pasted image 20240412153201.png",
+    "Assets/Pasted image 20240412152644.png",
+    "Express/session-file-store.md",
+    "SQL, psql and PostgreSQL/ALTER TABLE.md",
+    "SQL, psql and PostgreSQL/Postgresql/UPDATE.md",
     "JavaScript/Command line arguments.md",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
     "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
     "SQL, psql and PostgreSQL/psql/Copy table to Another DB.md",
-    "Pasted image 20240410154037.png",
-    "Pasted image 20240410153945.png",
     "SQL, psql and PostgreSQL/psql/pg_dump Description.md",
     "SQL, psql and PostgreSQL/psql/pg_dump Documentation.md",
-    "SQL, psql and PostgreSQL/psql/Copy Database between servers..md",
-    "SQL, psql and PostgreSQL/psql/Copy Table.md",
-    "SQL, psql and PostgreSQL/Postgresql/pg_dump & pg_restore Guide.md",
-    "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
-    "SQL, psql and PostgreSQL/Postgresql/pg_lsclusters.md",
-    "SQL, psql and PostgreSQL/ALTER TABLE.md",
-    "SQL, psql and PostgreSQL/DROP.md",
-    "Pasted image 20240410123853.png",
-    "SQL, psql and PostgreSQL/psql/Copy Database.md",
-    "SQL, psql and PostgreSQL/psql/Drop Database.md",
-    "SQL, psql and PostgreSQL/psql/CREATE USER.md",
-    "Job Search/Desirable skills.md",
-    "SQL, psql and PostgreSQL/Postgresql/Creating a Database.md",
-    "Job Search/Interview Prep.md",
-    "Css/Grid/Newledo Grid Layout.md",
     "Css/Grid",
-    "Css/Hero Image.md",
-    "Css/Horizontal & Vertical Align.md",
-    "Css/flex - CSS Cascading Style Sheets  MDN.md",
-    "HTML/anchor link.md",
     "Css/Articles",
-    "Css/css-flexbox-chart.png",
     "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",
     "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md.part",
     "VI",
-    "Assets/Pasted image 20240327101152.png",
     "vsCode",
     "Browser",
-    "Assets/Pasted image 20240327101019.png",
     "SQL, psql and PostgreSQL/psql/psql command line tutorial and cheat sheet  postgres.md.part",
     "SQL, psql and PostgreSQL/psql",
-    "Assets/Pasted image 20240326120612.png",
-    "Pasted image 20240326120534.png",
-    "Pasted image 20240326120437.png",
-    "Assets/Pasted image 20240318113441.png",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
