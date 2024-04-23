@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Branch and Merge.md",
+                "file": "React/Refresh a Page or Component in React - Upmostly.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Branch and Merge.md",
+                "file": "React/Refresh a Page or Component in React - Upmostly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Branch and Merge.md",
+                "file": "React/Refresh a Page or Component in React - Upmostly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Branch and Merge.md"
+                "file": "React/Refresh a Page or Component in React - Upmostly.md"
               }
             }
           },
@@ -160,18 +160,24 @@
   },
   "active": "1300f28baf7a9cd7",
   "lastOpenFiles": [
+    "React/Forced Reload.md",
+    "React/Refresh a Page or Component in React - Upmostly.md",
+    "JavaScript/History - Web APIs  MDN.md",
+    "Css/W3 CSS Reference.md",
+    "JavaScript/W3 JavaScript Reference.md",
+    "JavaScript/setInterval and setTimeOut Properly.md",
+    "HTML/W3 Schools Reference.md",
+    "Bash/find  -  bash.md",
+    "Git and Github/Branch and Merge.md",
     "Assets/Pasted image 20240420151523.png",
     "JavaScript/EJS, Form target, history.md",
-    "JavaScript/setInterval and setTimeOut Properly.md",
     "HTML/Form Submission Opens New TabWindow  CSS-Tricks - CSS-Tricks.md",
     "Express/res.sendFile() Open New Browser Window.md",
     "HTML/Form Submission Opens New Tab or Window.md",
     "Express/express() 4.x API.md",
     "JSON/W3 JSON - Introduction.md",
-    "JavaScript/W3 JavaScript Reference.md",
     "JavaScript/Filter Undefined Array Elements.md",
     "JavaScript/Parse Int.md",
-    "Bash/find  -  bash.md",
     "nodejs/Update NPM Dependencies.md",
     "Bash/Grep.md",
     "Batteries/Battery Discharge Calculation.md",
@@ -190,12 +196,7 @@
     "SQL, psql and PostgreSQL/ALTER TABLE.md",
     "SQL, psql and PostgreSQL/Postgresql/UPDATE.md",
     "JavaScript/Command line arguments.md",
-    "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
-    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
-    "SQL, psql and PostgreSQL/psql/Copy table to Another DB.md",
-    "SQL, psql and PostgreSQL/psql/pg_dump Description.md",
-    "SQL, psql and PostgreSQL/psql/pg_dump Documentation.md",
     "Css/Grid",
     "Css/Articles",
     "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",

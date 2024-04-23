@@ -53,7 +53,7 @@ A really common example of refreshing a page when the UI needs to be updated is 
 
 We’re using React, not some old-school PHP e-commerce framework! Let’s build a shopping cart component to demonstrate how to refresh a page using state:
 
-```
+```js
 import React, { useState } from 'react';
 
 function ShoppingCart() {
