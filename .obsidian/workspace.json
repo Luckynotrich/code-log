@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce11a1c85cd05d08",
+        "id": "1831a85c8b381d32",
         "type": "tabs",
         "children": [
           {
-            "id": "1300f28baf7a9cd7",
+            "id": "167ccd812343b376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Refresh a Page or Component in React - Upmostly.md",
+                "file": "Css/Horizontal & Vertical Align.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Refresh a Page or Component in React - Upmostly.md",
+                "file": "Css/Horizontal & Vertical Align.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Refresh a Page or Component in React - Upmostly.md",
+                "file": "Css/Horizontal & Vertical Align.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Refresh a Page or Component in React - Upmostly.md"
+                "file": "Css/Horizontal & Vertical Align.md"
               }
             }
           },
@@ -158,12 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1300f28baf7a9cd7",
+  "active": "167ccd812343b376",
   "lastOpenFiles": [
-    "React/Forced Reload.md",
-    "React/Refresh a Page or Component in React - Upmostly.md",
-    "JavaScript/History - Web APIs  MDN.md",
+    "Css/prefers-color-scheme.md",
     "Css/W3 CSS Reference.md",
+    "HTML/Link to Style Sheet.md",
+    "React/Refresh a Page or Component in React - Upmostly.md",
+    "React/Forced Reload.md",
+    "JavaScript/History - Web APIs  MDN.md",
     "JavaScript/W3 JavaScript Reference.md",
     "JavaScript/setInterval and setTimeOut Properly.md",
     "HTML/W3 Schools Reference.md",
@@ -194,8 +196,6 @@
     "Assets/Pasted image 20240412152644.png",
     "Express/session-file-store.md",
     "SQL, psql and PostgreSQL/ALTER TABLE.md",
-    "SQL, psql and PostgreSQL/Postgresql/UPDATE.md",
-    "JavaScript/Command line arguments.md",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
     "Css/Grid",
     "Css/Articles",
