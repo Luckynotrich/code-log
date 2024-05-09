@@ -1,0 +1,1 @@
+The git stash command is a powerful feature in Git. It is essentially a mechanism for saving the current state of your working directory and index without committing. It's like a clipboard for uncommitted changes, offering a snapshot that can be reapplied later.
