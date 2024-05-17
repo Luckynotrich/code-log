@@ -91,10 +91,24 @@ In this example, we are adding the `file3.txt` file to the archives.tar file.
 
 To remove a file from a ‘.tar’ archive, use the **--delete** option as shown.
 
-$ tar --delete -f archives.tar `file3.txt`
+$ `tar --delete -f archives.tar file3.txt`
 
 In this example, we are removing the “`file3.txt`” file from the archives.tar file.
 
+The syntax to remove a directory from a tar ball is as follows:
+
+`tar --delete -f file.tar 'path1/dir1'`
+
+OR
+
+`tar --delete -f file.tar 'dir1'`
+
+To delete a directory called etc/security from a foo.tar, enter:  
+`$ tar --delete -f foo.tar 'etc/security'`  
+Verify that directory has been deleted from the foo.tar ball, enter:  
+`$ tar -tvf foo.tar | less`  
+OR  
+`$ tar -tvf foo.tar | grep 'etc/security'`
 ### Compress an archive
 
 The tar command can also be used to compress an archive using **gzip or bzip2 compression**. To create a compressed file, the **-z** or **-j** option can be used in conjunction with the -c option.

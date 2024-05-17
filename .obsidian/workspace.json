@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1831a85c8b381d32",
+        "id": "8e60a4a19f383cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "167ccd812343b376",
+            "id": "15c87d1ccfcb5c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/SFTP.md",
+                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 305.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/SFTP.md",
+                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/SFTP.md",
+                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/SFTP.md"
+                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md"
               }
             }
           },
@@ -158,45 +158,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167ccd812343b376",
+  "active": "15c87d1ccfcb5c76",
   "lastOpenFiles": [
-    "Bash/sh vs bash.md",
     "Bash/Tar.md",
-    "Bash/Gzip Command in Linux.md",
-    "Bash/SFTP.md",
-    "A2hosting/A2 Creating a PostgreSQL db.md",
-    "SQL, psql and PostgreSQL/psql/Copy Database between servers..md",
+    "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
+    "SQL, psql and PostgreSQL/Postgres v9.6.2/Adding a Sequence.md",
+    "SQL, psql and PostgreSQL/psql/Copy Table.md",
+    "SQL, psql and PostgreSQL/psql/Copy Database.md",
+    "SQL, psql and PostgreSQL/ALTER TABLE.md",
+    "SQL, psql and PostgreSQL/Postgres v9.6.2",
+    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
     "SQL, psql and PostgreSQL/psql/pg_dump Description.md",
+    "SQL, psql and PostgreSQL/psql/Copy Database between servers..md",
+    "SQL, psql and PostgreSQL/Postgresql/pg_dump & pg_restore Guide.md",
+    "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
+    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
+    "VI/Cheat Sheet.md",
+    "inverted_vi_cheatsheet2.png",
+    "Assets/Pasted image 20240508180135.png",
+    "inverted_vim_CheatSheet1.png",
+    "inverted_vim_CheatSheet.png",
+    "A2hosting/SSH keys -  How to configure in cPanel.md",
+    "A2hosting/A2 FOR.com errors.md",
+    "A2hosting/FOR.com Un-supported packages.md",
+    "A2hosting/A2 Creating a PostgreSQL db.md",
+    "A2hosting/node setup instructions.md",
+    "A2hosting/Account info.md",
+    "Bash/SFTP.md",
+    "Bash/find  -  bash.md",
+    "Bash/Grep.md",
+    "Assets/Pasted image 20240510135145.png",
+    "Assets/Pasted image 20240510115726.png",
+    "Assets/Pasted image 20240510115650.png",
+    "Bash/sh vs bash.md",
+    "Bash/Gzip Command in Linux.md",
     "SQL, psql and PostgreSQL/psql/pg_dump Documentation.md",
     "JavaScript/Keystroke detection/Detect Refresh with JS Cookies.md",
-    "Linux/PSU CAT.md",
-    "Pasted image 20240508180135.png",
-    "Git and Github/stash.md",
-    "A2hosting/Account info.md",
-    "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
-    "SQL, psql and PostgreSQL/Postgresql/List data base Access privileges.md",
-    "A2hosting/node setup instructions.md",
-    "A2hosting/FOR.com Un-supported packages.md",
-    "React/setInterval Delay Element Display.md",
     "A2hosting",
-    "JavaScript/setInterval and setTimeOut Properly.md",
-    "React/React Query/Get-User-Id App.md",
-    "React/React Query/React Query(Tan Stack Query).md",
-    "React/React Query/Tan Stack Query in 50 Minutes.md",
-    "React/React Query/RQ table of contents.md",
-    "EJS/EJS Cheat Sheet & Quick Reference.md",
-    "EJS/EJS variable as link.md",
-    "EJS/Getting Started.md",
-    "nodejs/Update NPM Dependencies.md",
     "Assets/Pasted image 20240420151523.png",
     "Assets/Pasted image 20240412154503.png",
     "Assets/Pasted image 20240412153943.png",
-    "Pasted image 20240412153914.png",
-    "Assets/Pasted image 20240412153742.png",
-    "Assets/Pasted image 20240412153532.png",
-    "Assets/Pasted image 20240412153430.png",
-    "Pasted image 20240412153302.png",
-    "Pasted image 20240412153201.png",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
     "Css/Grid",
     "Css/Articles",
@@ -205,7 +206,6 @@
     "VI",
     "vsCode",
     "Browser",
-    "SQL, psql and PostgreSQL/psql/psql command line tutorial and cheat sheet  postgres.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-#### Creating a new PostgreSQL database and assigning a user
+gr#### Creating a new PostgreSQL database and assigning a user
 
 Before you can import the database, you must create a new database in cPanel and assign a user to it. To do this, follow these steps:
 
@@ -39,13 +39,26 @@ pg_dump -U dbusername dbname > dbexport.pgsql
 ```
 3. Type your A2 Hosting account password at the Password prompt.
 4. The `dbexport.pgsql` file now contains all of the data for the `dbname` database. If the `dbexport.pgsql` file is on a remote computer, download the file to your local computer.
+  
 
+_You may receive the following error messages when you try to export a database:_
+
+```
+pg_dump: SQL command failed
+pg_dump: Error message from server: ERROR:  permission denied for schema topology
+pg_dump: The command was: LOCK TABLE topology.topology IN ACCESS SHARE MODE
+```
+These errors occur because some server database templates include PostGIS with restricted access permissions. To export a PostgreSQL database without this data, type the following command instead of the command listed in step 2:
+
+```
+pg_dump -U dbusername dbname -N topology -T spatial_ref_sys > dbexport.pgsql
+```
 
 #### Importing a PostgreSQL database
 
 After you have created a new database in cPanel, you can import the database's contents by using the _psql_ command line program, or you can phpPgAdmin.
 
-You should import all PostgreSQL data as the **primary** PostgreSQL user (that is, by using your domain username). If you import PostgreSQL data as a regular user, you will be unable to see or manipulate the data properly using phpPgAdmin. After you have imported the data as the primary PostgreSQL user, you can grant a regular user access to the data. Then you do not have to use the primary domain username and password in scripts that access the database.
+You should import all PostgreSQL data as the **primary** PostgreSQL user (_that is, by using your domain username_). If you import PostgreSQL data as a regular user, you will be unable to see or manipulate the data properly using phpPgAdmin. After you have imported the data as the primary PostgreSQL user, you can grant a regular user access to the data. Then you do not have to use the primary domain username and password in scripts that access the database.
 
 ##### Method #1: Use the psql program
 
