@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
+                "file": "Express/Cookies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f161731b78bbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express/Cookies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 511.5
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
+                "file": "Express/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
+                "file": "Express/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL, psql and PostgreSQL/psql/Set Sequence Value.md"
+                "file": "Express/Cookies.md"
               }
             }
           },
@@ -158,10 +171,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15c87d1ccfcb5c76",
+  "active": "19f161731b78bbe6",
   "lastOpenFiles": [
-    "Bash/Tar.md",
+    "Css/Grid/Newledo Grid Layout.md",
+    "Css/Flex/flex - CSS Cascading Style Sheets  MDN.md",
+    "Css/Flex/css-flexbox-chart.png",
+    "Css/Flex",
+    "Css/Center Horizontal & Vertical Align.md",
+    "Express/Cookies.md",
+    "nodejs/cookie question.md",
+    "nodejs/Update NPM Dependencies.md",
+    "nodejs/upgrade 2023 -11-17.md",
+    "webdev/Understanding Cookies and Sessions in Node.js - DEV Community.md",
+    "webdev/Understanding Cookies and Sessions in Node.js - DEV Community.md.part",
+    "webdev",
+    "JavaScript/Set-Cookie.md",
+    "Bash/apt.md",
+    "Bash/OpenSSL Certificate Script.md",
+    "Express/HTTP2-spdy with Express.js and test it locally..md",
+    "Express/http2-spdy.md",
+    "VI/Cheat Sheet.md",
+    "A2hosting/Untitled.md",
     "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
+    "Bash/Tar.md",
     "SQL, psql and PostgreSQL/Postgres v9.6.2/Adding a Sequence.md",
     "SQL, psql and PostgreSQL/psql/Copy Table.md",
     "SQL, psql and PostgreSQL/psql/Copy Database.md",
@@ -172,40 +204,21 @@
     "SQL, psql and PostgreSQL/psql/Copy Database between servers..md",
     "SQL, psql and PostgreSQL/Postgresql/pg_dump & pg_restore Guide.md",
     "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
-    "SQL, psql and PostgreSQL/psql/Cheat Sheet.md",
-    "VI/Cheat Sheet.md",
     "inverted_vi_cheatsheet2.png",
     "Assets/Pasted image 20240508180135.png",
     "inverted_vim_CheatSheet1.png",
     "inverted_vim_CheatSheet.png",
-    "A2hosting/SSH keys -  How to configure in cPanel.md",
-    "A2hosting/A2 FOR.com errors.md",
-    "A2hosting/FOR.com Un-supported packages.md",
-    "A2hosting/A2 Creating a PostgreSQL db.md",
-    "A2hosting/node setup instructions.md",
-    "A2hosting/Account info.md",
-    "Bash/SFTP.md",
-    "Bash/find  -  bash.md",
-    "Bash/Grep.md",
     "Assets/Pasted image 20240510135145.png",
     "Assets/Pasted image 20240510115726.png",
     "Assets/Pasted image 20240510115650.png",
-    "Bash/sh vs bash.md",
-    "Bash/Gzip Command in Linux.md",
-    "SQL, psql and PostgreSQL/psql/pg_dump Documentation.md",
-    "JavaScript/Keystroke detection/Detect Refresh with JS Cookies.md",
     "A2hosting",
     "Assets/Pasted image 20240420151523.png",
     "Assets/Pasted image 20240412154503.png",
-    "Assets/Pasted image 20240412153943.png",
     "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
     "Css/Grid",
     "Css/Articles",
     "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",
     "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md.part",
-    "VI",
-    "vsCode",
-    "Browser",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

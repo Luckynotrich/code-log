@@ -27,7 +27,7 @@ Struggling with `react-router-dom` and Obsidian code formatting. On the latter, 
 [NavLink](https://reactrouter.com/en/main/components/nav-link#navlink)Also a very handy link
 
 #### Today 10-25-23
-Monday, I nailed down NavLink on [refresh-detected-react](~/webdev/refresh-detected-react). The key is in the CSS. React-Router adds an 'active' selector to which ever class is active, so to get styling other than just the default color change I used the following code.
+Monday, I nailed down NavLink on [refresh-detected-react](refresh-detected-react.md). The key is in the CSS. React-Router adds an 'active' selector to which ever class is active, so to get styling other than just the default color change I used the following code.
 NavLink simplifies the JS but complicates the CSS.
 ``` css
 a[class*='large-'] {
