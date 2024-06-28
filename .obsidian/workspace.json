@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15c87d1ccfcb5c76",
+            "id": "d90ed1589102595f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19f161731b78bbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Express/Cookies.md",
+                "file": "Git and Github/Undo Add or Commit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 354.5069465637207
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express/Cookies.md",
+                "file": "Git and Github/Undo Add or Commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express/Cookies.md",
+                "file": "Git and Github/Undo Add or Commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express/Cookies.md"
+                "file": "Git and Github/Undo Add or Commit.md"
               }
             }
           },
@@ -171,54 +158,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19f161731b78bbe6",
+  "active": "d90ed1589102595f",
   "lastOpenFiles": [
-    "Css/Grid/Newledo Grid Layout.md",
-    "Css/Flex/flex - CSS Cascading Style Sheets  MDN.md",
-    "Css/Flex/css-flexbox-chart.png",
-    "Css/Flex",
-    "Css/Center Horizontal & Vertical Align.md",
-    "Express/Cookies.md",
-    "nodejs/cookie question.md",
+    "JavaScript/W3 JavaScript Reference.md",
+    "Bash/Calculate Time Elapsed  Baeldung.md",
+    "Bash/SFTP.md",
+    "Bash/Grep.md",
+    "Bash/Tar/Tar and Extract dist dir.md",
+    "Bash/Tar/Tar Syntax.md",
+    "certs and keys/Generating a new SSH key and adding it to the ssh-agent - GitHub Docs.md",
+    "React/Set Focus on an Input in React.md",
+    "Special Symbols.md",
+    "vite/Vite(Veet) - Getting Started.md",
     "nodejs/Update NPM Dependencies.md",
-    "nodejs/upgrade 2023 -11-17.md",
-    "webdev/Understanding Cookies and Sessions in Node.js - DEV Community.md",
-    "webdev/Understanding Cookies and Sessions in Node.js - DEV Community.md.part",
-    "webdev",
-    "JavaScript/Set-Cookie.md",
-    "Bash/apt.md",
-    "Bash/OpenSSL Certificate Script.md",
-    "Express/HTTP2-spdy with Express.js and test it locally..md",
-    "Express/http2-spdy.md",
-    "VI/Cheat Sheet.md",
-    "A2hosting/Untitled.md",
-    "SQL, psql and PostgreSQL/psql/Set Sequence Value.md",
-    "Bash/Tar.md",
-    "SQL, psql and PostgreSQL/Postgres v9.6.2/Adding a Sequence.md",
-    "SQL, psql and PostgreSQL/psql/Copy Table.md",
-    "SQL, psql and PostgreSQL/psql/Copy Database.md",
-    "SQL, psql and PostgreSQL/ALTER TABLE.md",
-    "SQL, psql and PostgreSQL/Postgres v9.6.2",
-    "SQL, psql and PostgreSQL/psql/PSQL CL Tutorial and cheat Sheet.md",
-    "SQL, psql and PostgreSQL/psql/pg_dump Description.md",
-    "SQL, psql and PostgreSQL/psql/Copy Database between servers..md",
-    "SQL, psql and PostgreSQL/Postgresql/pg_dump & pg_restore Guide.md",
-    "SQL, psql and PostgreSQL/Postgresql/SQL Dump.md",
-    "inverted_vi_cheatsheet2.png",
-    "Assets/Pasted image 20240508180135.png",
-    "inverted_vim_CheatSheet1.png",
-    "inverted_vim_CheatSheet.png",
-    "Assets/Pasted image 20240510135145.png",
-    "Assets/Pasted image 20240510115726.png",
-    "Assets/Pasted image 20240510115650.png",
-    "A2hosting",
-    "Assets/Pasted image 20240420151523.png",
-    "Assets/Pasted image 20240412154503.png",
-    "JavaScript/How to pass command line arguments to a Node.js app - DEV Community.md.part",
-    "Css/Grid",
-    "Css/Articles",
-    "SQL, psql and PostgreSQL/Postgresql/Say Goodbye to Downtime Upgrade PostgreSQL 14 to 16 Effortlessly with pg_upgrade  by Maly Mohsem Ahmed  Feb, 2024  Medium.md.part",
-    "SQL, psql and PostgreSQL/psql/How to export PostgreSQL data to a JSON file  AlphaHydrae.md.part",
+    "VI/VI Cheat Sheet.md",
+    "Bash/Scripting/Global Scripts.md",
+    "certs and keys/Keys from the command line.md",
+    "certs and keys/Self Generated SSL-TSL Certificate.md",
+    "certs and keys/Generating new Self-Signed Certificate files - IBM Documentation.md",
+    "Bash/Scripting/Script Cheat sheet.md",
+    "Untitled",
+    "Bash/Scripting/Real Update Script.md",
+    "Bash/Scripting/Data Streams.md",
+    "Bash/Scripting/Arguments.md",
+    "Bash/Scripting/Functions.md",
+    "Bash/Scripting/Operators/Argument.md",
+    "Bash/Scripting/Exit Codes.md",
+    "Bash/Scripting/Operators/String Comp operators.md",
+    "Bash/Scripting/Operators/Misc Operators.md",
+    "Bash/Scripting/Operators/File operators.md",
+    "Assets/Pasted image 20240613094937.png",
+    "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/02-vim-digraphs.txt",
+    "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/01-generate.py",
+    "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568",
+    "Bash/Scripting/Functions",
+    "Assets/Pasted image 20240624122604.png",
+    "Assets/Pasted image 20240624101336.png",
+    "Bash/Scripting/Operators",
+    "Assets/Pasted image 20240624085825.png",
+    "Assets/Pasted image 20240621105306.png",
+    "Bash/Scripting",
+    "Business/Acronyms",
+    "Assets/Linux_bash_cheat_sheet-1.pdf",
+    "Business",
+    "Pasted image 20240617094836.png",
+    "Pasted image 20240617093237.png",
+    "Assets/Pasted image 20240610084037.png",
+    "Assets/inverted_vi_cheatsheet2.png",
+    "Assets/Pasted image 20240610095650.png",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
