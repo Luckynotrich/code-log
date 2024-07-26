@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e60a4a19f383cf1",
+        "id": "a86b6a2aaa9a5d22",
         "type": "tabs",
         "children": [
           {
-            "id": "d90ed1589102595f",
+            "id": "6b35b104b2085289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Undo Add or Commit.md",
+                "file": "React/input char counter.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secret",
+                "query": "alter column",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5069465637207
+    "width": 300.504695892334
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Undo Add or Commit.md",
+                "file": "React/input char counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Undo Add or Commit.md",
+                "file": "React/input char counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Undo Add or Commit.md"
+                "file": "React/input char counter.md"
               }
             }
           },
@@ -158,35 +158,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d90ed1589102595f",
+  "active": "6b35b104b2085289",
   "lastOpenFiles": [
-    "JavaScript/W3 JavaScript Reference.md",
-    "Bash/Calculate Time Elapsed  Baeldung.md",
-    "Bash/SFTP.md",
-    "Bash/Grep.md",
+    "React/React-Hook-Form/Date Picker.md",
+    "React/input char counter.md",
+    "React/React-Hook-Form/File Download.md",
+    "SQL, psql, PostgreSQL, MySQL/DROP.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
+    "Bash/du - dish usage.md",
     "Bash/Tar/Tar and Extract dist dir.md",
     "Bash/Tar/Tar Syntax.md",
-    "certs and keys/Generating a new SSH key and adding it to the ssh-agent - GitHub Docs.md",
-    "React/Set Focus on an Input in React.md",
-    "Special Symbols.md",
-    "vite/Vite(Veet) - Getting Started.md",
-    "nodejs/Update NPM Dependencies.md",
-    "VI/VI Cheat Sheet.md",
-    "Bash/Scripting/Global Scripts.md",
-    "certs and keys/Keys from the command line.md",
-    "certs and keys/Self Generated SSL-TSL Certificate.md",
-    "certs and keys/Generating new Self-Signed Certificate files - IBM Documentation.md",
-    "Bash/Scripting/Script Cheat sheet.md",
-    "Untitled",
-    "Bash/Scripting/Real Update Script.md",
-    "Bash/Scripting/Data Streams.md",
-    "Bash/Scripting/Arguments.md",
-    "Bash/Scripting/Functions.md",
-    "Bash/Scripting/Operators/Argument.md",
-    "Bash/Scripting/Exit Codes.md",
-    "Bash/Scripting/Operators/String Comp operators.md",
-    "Bash/Scripting/Operators/Misc Operators.md",
-    "Bash/Scripting/Operators/File operators.md",
+    "Type Script/Typescript event types for React - DEV Community.md",
+    "Type Script/ts-react-intro Examples.md",
+    "Type Script/ts-react-hooks Examples.md",
+    "HTML/Use Non-Breaking Space to create space.md",
+    "Css/W3 CSS Reference.md",
+    "Css/Grid/Newledo Grid Layout.md",
+    "JavaScript/Write to html.md",
+    "JavaScript/Capture window width.md",
+    "Css/Hero Image.md",
+    "Css/Flex/flex - CSS Cascading Style Sheets  MDN.md",
+    "Bash/find  -  bash.md",
+    "Tailwind/Install.md",
+    "vite/Eslint.md",
+    "Tailwind",
+    "Type Script/Function Components.md",
+    "React/React-Hook-Form/Get Started.md",
+    "Git and Github/CreateGitHubRepo-CL.md",
+    "Git and Github/npx gitignore node.md",
+    "vsCode/cheatsheet-a5.pdf",
+    "Pasted image 20240709122221.png",
+    "Pasted image 20240709113901.png",
+    "Type Script",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server  DigitalOcean.md.part",
+    "LEMP",
     "Assets/Pasted image 20240613094937.png",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/02-vim-digraphs.txt",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/01-generate.py",
@@ -197,15 +203,9 @@
     "Bash/Scripting/Operators",
     "Assets/Pasted image 20240624085825.png",
     "Assets/Pasted image 20240621105306.png",
-    "Bash/Scripting",
-    "Business/Acronyms",
-    "Assets/Linux_bash_cheat_sheet-1.pdf",
-    "Business",
     "Pasted image 20240617094836.png",
     "Pasted image 20240617093237.png",
     "Assets/Pasted image 20240610084037.png",
-    "Assets/inverted_vi_cheatsheet2.png",
-    "Assets/Pasted image 20240610095650.png",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
