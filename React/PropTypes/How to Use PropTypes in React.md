@@ -154,7 +154,13 @@ You can use this for both arrays and objects but the error object will be called
 <table><colgroup><col width="190"><col width="378"><col width="193"></colgroup><tbody><tr><td><p dir="ltr"><span>Type</span></p></td><td><p dir="ltr"><span>Class</span></p></td><td><p dir="ltr"><span>Example</span></p></td></tr><tr><td><p dir="ltr"><span>Custom</span></p></td><td><p dir="ltr"><span>function(props, propName, componentName) {}</span></p></td><td><p dir="ltr"><span>“hello”</span></p></td></tr><tr><td><p dir="ltr"><span>Custom Array</span></p></td><td><p dir="ltr"><span>PropTypes.arrayOf(function(props, propName, componentName) {})</span></p></td><td><p dir="ltr"><span>[“hello”]</span></p></td></tr></tbody></table>
 
 ```javascript
-Count.propTypes = { // normal functionn customProp: function (props, propName, componentName) { if (!/matchme/.test(props[propName])) { return new Error( "Invalid prop `" + propName + "` supplied to" + " `" + componentName + "`. Validation failed." ); } }, };
+Count.propTypes = { 
+// normal functionn customProp:
+function (props, propName, componentName) { 
+if (!/matchme/.test(props[propName])) { return new Error( "Invalid prop `" + propName + "` supplied to" + " `" + componentName + "`. Validation failed." ); 
+		  }
+	   },
+ };
 ```
 
 ```javascript

@@ -1,3 +1,8 @@
+For a list of gitignore file types
+```bash
+npx gitignore -types
+```
+
 ![[Pasted image 20240103195933.png]]
 
 ![[Pasted image 20240103200617.png]]

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/input char counter.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Reset root Password.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ffaae1f67daa487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.504695892334
+    "width": 370.504695892334
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/input char counter.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/input char counter.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/input char counter.md"
+                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md"
               }
             }
           },
@@ -158,38 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b35b104b2085289",
+  "active": "1ffaae1f67daa487",
   "lastOpenFiles": [
-    "React/React-Hook-Form/Date Picker.md",
-    "React/input char counter.md",
-    "React/React-Hook-Form/File Download.md",
     "SQL, psql, PostgreSQL, MySQL/DROP.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
-    "Bash/du - dish usage.md",
-    "Bash/Tar/Tar and Extract dist dir.md",
-    "Bash/Tar/Tar Syntax.md",
-    "Type Script/Typescript event types for React - DEV Community.md",
-    "Type Script/ts-react-intro Examples.md",
-    "Type Script/ts-react-hooks Examples.md",
-    "HTML/Use Non-Breaking Space to create space.md",
-    "Css/W3 CSS Reference.md",
-    "Css/Grid/Newledo Grid Layout.md",
-    "JavaScript/Write to html.md",
-    "JavaScript/Capture window width.md",
-    "Css/Hero Image.md",
-    "Css/Flex/flex - CSS Cascading Style Sheets  MDN.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/3) User options.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Reset root Password.md",
+    "Bash/MD5sum.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/1) Install MySQL - Ubuntu 22.04.md",
+    "Pasted image 20240823113353.png",
+    "Pasted image 20240823102744.png",
+    "Pasted image 20240823102614.png",
+    "Bash/find all socket files.md",
     "Bash/find  -  bash.md",
-    "Tailwind/Install.md",
+    "Pasted image 20240823083643.png",
+    "Pasted image 20240823083508.png",
+    "Pasted image 20240823083413.png",
+    "Bash/apt.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/4) Grant.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/How to Install MySQL on Ubuntu 22.04.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Users.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/5)Create Tables.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/2) Create a database.md",
+    "nodejs/MySQL module.md",
+    "Bash/Fixing the apt-key problem in Ubuntu.  by Brian Blankenship  Nerd For Tech  Medium.md",
+    "Bash/dpkg.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/SET Password.md",
     "vite/Eslint.md",
-    "Tailwind",
-    "Type Script/Function Components.md",
-    "React/React-Hook-Form/Get Started.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "vite/Setup SCSS In Vite.md",
     "Git and Github/CreateGitHubRepo-CL.md",
-    "Git and Github/npx gitignore node.md",
+    "Becoming a Better Coder.md",
+    "nodejs/Insert & Read Image BLOB in MySQL.md",
+    "nodejs/Es/__dirname is not defined.md",
+    "nodejs/Es",
+    "Assets/Pasted image 20240709113901.png",
+    "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
+    "Assets/Pasted image 20240731105059.png",
+    "Tailwind",
     "vsCode/cheatsheet-a5.pdf",
-    "Pasted image 20240709122221.png",
-    "Pasted image 20240709113901.png",
+    "Assets/Pasted image 20240709122221.png",
     "Type Script",
     "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server  DigitalOcean.md.part",
     "LEMP",
@@ -197,15 +219,6 @@
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/02-vim-digraphs.txt",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/01-generate.py",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568",
-    "Bash/Scripting/Functions",
-    "Assets/Pasted image 20240624122604.png",
-    "Assets/Pasted image 20240624101336.png",
-    "Bash/Scripting/Operators",
-    "Assets/Pasted image 20240624085825.png",
-    "Assets/Pasted image 20240621105306.png",
-    "Pasted image 20240617094836.png",
-    "Pasted image 20240617093237.png",
-    "Assets/Pasted image 20240610084037.png",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

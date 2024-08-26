@@ -1,11 +1,11 @@
 _**Warning:** This solution will delete all your data stored on the MySQL server!_
 
 ```
-sudo apt purge mysql*
+sudo apt remove --purge mysql-server
+sudo apt purge mysql-server
 sudo apt autoremove
-
-sudo rm -rf /etc/mysql
-sudo rm -rf /var/lib/mysql
+sudo apt autoclean
+sudo apt remove dbconfig-mysql
 ```
 
 Install MySQL:

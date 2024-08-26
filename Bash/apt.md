@@ -1,4 +1,4 @@
-
+Key differences: apt vs. apt-get. The difference between apt and apt-get is not just that **apt is a newer version of apt-get**. The apt command was designed as a more user-friendly alternative to apt-get, combining the functionality of multiple package management tools for user convenience.
 ### sudo apt --help
 ```bash
 sudo apt --help

@@ -1,0 +1,3 @@
+```sh
+md5sum** [OPTION]... [FILE]...
+```
