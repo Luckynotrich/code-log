@@ -1,4 +1,8 @@
 ```sql
+select user();
+```
+
+```sql
 CREATE USER 'sammy'@'localhost' IDENTIFIED BY 'password';
 ```
 

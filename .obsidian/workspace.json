@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Reset root Password.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ffaae1f67daa487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+                "file": "Bash/Tar/Tar and Extract dist dir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alter column",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+                "file": "Bash/Tar/Tar and Extract dist dir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+                "file": "Bash/Tar/Tar and Extract dist dir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md"
+                "file": "Bash/Tar/Tar and Extract dist dir.md"
               }
             }
           },
@@ -171,15 +158,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ffaae1f67daa487",
+  "active": "6b35b104b2085289",
   "lastOpenFiles": [
-    "SQL, psql, PostgreSQL, MySQL/DROP.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+    "Bash/Tar/Tar Syntax.md",
+    "HTML/W3 Schools Reference.md",
+    "HTML/Symbols.md",
+    "JavaScript/setInterval and setTimeOut Properly.md",
+    "JavaScript/Command line arguments.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/MySQL Node.js Express video notes.md",
+    "Pasted image 20240828085915.png",
+    "Pasted image 20240828085557.png",
+    "Pasted image 20240828085254.png",
+    "LEMP/Domain Setup.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/2) Create a database.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Mysql CL start conditions.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/3) User options.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/SET Password.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/4) Grant.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Users.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/1) Install MySQL - Ubuntu 22.04.md",
+    "Bash/Scripting/Script Cheat sheet.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/Reset root Password.md",
+    "Bash/Scripting/Basics.md",
+    "Bash/Scripting/Global Scripts.md",
+    "SQL, psql, PostgreSQL, MySQL/DROP.md",
     "Bash/MD5sum.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/1) Install MySQL - Ubuntu 22.04.md",
     "Pasted image 20240823113353.png",
     "Pasted image 20240823102744.png",
     "Pasted image 20240823102614.png",
@@ -189,33 +194,15 @@
     "Pasted image 20240823083508.png",
     "Pasted image 20240823083413.png",
     "Bash/apt.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/4) Grant.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/How to Install MySQL on Ubuntu 22.04.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Users.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/5)Create Tables.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/2) Create a database.md",
-    "nodejs/MySQL module.md",
-    "Bash/Fixing the apt-key problem in Ubuntu.  by Brian Blankenship  Nerd For Tech  Medium.md",
-    "Bash/dpkg.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/SET Password.md",
-    "vite/Eslint.md",
-    "vite/Vite(Veet) - Getting Started.md",
-    "vite/Setup SCSS In Vite.md",
-    "Git and Github/CreateGitHubRepo-CL.md",
-    "Becoming a Better Coder.md",
-    "nodejs/Insert & Read Image BLOB in MySQL.md",
-    "nodejs/Es/__dirname is not defined.md",
     "nodejs/Es",
     "Assets/Pasted image 20240709113901.png",
     "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
-    "Assets/Pasted image 20240731105059.png",
     "Tailwind",
     "vsCode/cheatsheet-a5.pdf",
-    "Assets/Pasted image 20240709122221.png",
     "Type Script",
     "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server  DigitalOcean.md.part",
     "LEMP",
-    "Assets/Pasted image 20240613094937.png",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/02-vim-digraphs.txt",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568/01-generate.py",
     "bf400b0410810a071a7fb3509ef6c2c3-8feae5e69b8ae2c39ecc9fb49d0ed967570be568",

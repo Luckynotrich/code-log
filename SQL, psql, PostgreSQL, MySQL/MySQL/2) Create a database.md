@@ -1,5 +1,10 @@
 ```sql
 
+SHOW DATABASES;
+```
+
+```sql
+
 CREATE DATABASE myDB;
 ```
 
