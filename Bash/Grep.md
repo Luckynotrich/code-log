@@ -4,6 +4,7 @@
 grep --help
 ```
 
+You can make **grep search in all the files and all the sub-directories** of the current directory using the `-r` recursive search option:
 ```
 grep -r search_term .
 ```

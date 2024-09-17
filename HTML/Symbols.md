@@ -58,34 +58,34 @@
 
 ### Other Common Symbols
 
-|Symbol|Entity Name|Entity Number|Known As|
-|---|---|---|---|
-|®|&reg;|&#174;|registered trademark|
-|©|&copy;|&#169;|copyright|
-|™|&trade;|&#153;|trademark|
-|†|&dagger;|&#8224;|dagger|
-|‡|&Dagger;|&#8225;|double dagger|
-|←||&#8592;|left arrow|
-|→||&#8594;|right arrow|
-|↑||&#8593;|up arrow|
-|↓||&#8595;|down arrow|
-|★||&#9733;|black star|
-|☆||&#9734;|white star|
-|⚑||&#9873;|black flag|
-|⚐||&#9872;|white flag|
-|♠|&spades;|&#9824;|black spade|
-|♣|&clubs;|&#9827;|black club|
-|♥|&hearts;|&#9829;|black heart|
-|♦|&diams;|&#9830;|black diamond|
-|♧||&#9831;|white club|
-|♤||&#9828;|white spade|
-|♡||&#9825;|white heart|
-|♢||&#9825;|white diamond|
-|☐||&#9744;|empty ballot box|
-|☑||&#9745;|ballot box with a checkmark|
-|☒||&#9746;|ballot box with an X|
-|☻||&#9787;|black smiling face|
-|☺||&#9786;|white smiling face|
-|☹||&#9785;|frowning face|
-|☮||&#9774;|peace symbol|
-|♲||&#9842;|recycling symbol|
+| Symbol | Entity Name | Entity Number | Known As                    |
+| ------ | ----------- | ------------- | --------------------------- |
+| ®      | &reg;       | &#174;        | registered trademark        |
+| ©      | &copy;      | &#169;        | copyright                   |
+| ™      | `&trade;`   | `&#153;`      | trademark                   |
+| †      | &dagger;    | &#8224;       | dagger                      |
+| ‡      | &Dagger;    | &#8225;       | double dagger               |
+| ←      |             | &#8592;       | left arrow                  |
+| →      |             | &#8594;       | right arrow                 |
+| ↑      |             | &#8593;       | up arrow                    |
+| ↓      |             | &#8595;       | down arrow                  |
+| ★      |             | &#9733;       | black star                  |
+| ☆      |             | &#9734;       | white star                  |
+| ⚑      |             | &#9873;       | black flag                  |
+| ⚐      |             | &#9872;       | white flag                  |
+| ♠      | &spades;    | &#9824;       | black spade                 |
+| ♣      | &clubs;     | &#9827;       | black club                  |
+| ♥      | &hearts;    | &#9829;       | black heart                 |
+| ♦      | &diams;     | &#9830;       | black diamond               |
+| ♧      |             | &#9831;       | white club                  |
+| ♤      |             | &#9828;       | white spade                 |
+| ♡      |             | &#9825;       | white heart                 |
+| ♢      |             | &#9825;       | white diamond               |
+| ☐      |             | &#9744;       | empty ballot box            |
+| ☑      |             | &#9745;       | ballot box with a checkmark |
+| ☒      |             | &#9746;       | ballot box with an X        |
+| ☻      |             | &#9787;       | black smiling face          |
+| ☺      |             | &#9786;       | white smiling face          |
+| ☹      |             | &#9785;       | frowning face               |
+| ☮      |             | &#9774;       | peace symbol                |
+| ♲      |             | &#9842;       | recycling symbol            |

@@ -1,4 +1,4 @@
-M
+npM
 [Vite - Getting Started](https://vitejs.dev/guide/)
 1)
 ```

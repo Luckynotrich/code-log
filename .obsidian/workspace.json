@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a86b6a2aaa9a5d22",
+        "id": "123f0eb53fb67841",
         "type": "tabs",
         "children": [
           {
-            "id": "6b35b104b2085289",
+            "id": "074138482dad7d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Tar/Tar and Extract dist dir.md",
+                "file": "Express/File Upload.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef6430977daf46b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/File Upload Interface.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.504695892334
+    "width": 347.5069465637207
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Tar/Tar and Extract dist dir.md",
+                "file": "React/File Upload Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Tar/Tar and Extract dist dir.md",
+                "file": "React/File Upload Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Tar/Tar and Extract dist dir.md"
+                "file": "React/File Upload Interface.md"
               }
             }
           },
@@ -158,45 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b35b104b2085289",
+  "active": "ef6430977daf46b5",
   "lastOpenFiles": [
+    "Express/File Upload.md",
+    "Pasted image 20240916135604.png",
+    "React/File Upload Interface.md",
+    "File Uploads.md",
+    "HTML/Use Non-Breaking Space to create space.md",
+    "Pasted image 20240916135930.png",
+    "Pasted image 20240916135146.png",
+    "Assets/Pasted image 20240916133825.png",
+    "Assets/Pasted image 20240916133126.png",
+    "Pasted image 20240916130807.png",
+    "Assets/Pasted image 20240916132729.png",
+    "Assets/Pasted image 20240916132642.png",
+    "Assets/Pasted image 20240916131516.png",
+    "Pasted image 20240916131320.png",
+    "JavaScript/Date.md",
+    "SQL, psql, PostgreSQL, MySQL/DROP.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
+    "SQL, psql, PostgreSQL, MySQL/ADD.md",
+    "SQL, psql, PostgreSQL, MySQL/Delete.md",
+    "SQL, psql, PostgreSQL, MySQL/MODIFY.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
+    "Untitled.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "vite/Setup SCSS In Vite.md",
+    "Bash/Tar/Tar and Extract dist dir.md",
     "Bash/Tar/Tar Syntax.md",
-    "HTML/W3 Schools Reference.md",
+    "Bash/Grep.md",
+    "React/React Query/useMutation with Code Evolution.md",
     "HTML/Symbols.md",
+    "HTML/W3 Schools Reference.md",
     "JavaScript/setInterval and setTimeOut Properly.md",
     "JavaScript/Command line arguments.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/MySQL Node.js Express video notes.md",
-    "Pasted image 20240828085915.png",
-    "Pasted image 20240828085557.png",
-    "Pasted image 20240828085254.png",
     "LEMP/Domain Setup.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/2) Create a database.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Mysql CL start conditions.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/3) User options.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/SET Password.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/4) Grant.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Setting System variables.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Users.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/1) Install MySQL - Ubuntu 22.04.md",
-    "Bash/Scripting/Script Cheat sheet.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Reset root Password.md",
-    "Bash/Scripting/Basics.md",
-    "Bash/Scripting/Global Scripts.md",
-    "SQL, psql, PostgreSQL, MySQL/DROP.md",
-    "Bash/MD5sum.md",
-    "Pasted image 20240823113353.png",
-    "Pasted image 20240823102744.png",
-    "Pasted image 20240823102614.png",
-    "Bash/find all socket files.md",
-    "Bash/find  -  bash.md",
-    "Pasted image 20240823083643.png",
-    "Pasted image 20240823083508.png",
-    "Pasted image 20240823083413.png",
-    "Bash/apt.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/How to Install MySQL on Ubuntu 22.04.md",
     "nodejs/Es",
-    "Assets/Pasted image 20240709113901.png",
     "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
     "Tailwind",
     "vsCode/cheatsheet-a5.pdf",
