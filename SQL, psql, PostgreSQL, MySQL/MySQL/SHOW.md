@@ -7,3 +7,9 @@ SHOW COLUMNS FROM table;
 ```sql
 SHOW CREATE TABLE mytable;
 ```
+
+##### Show TABLES
+```sql
+SHOW TABLES;
+
+```
