@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express/JSON server.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express/JSON server.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express/JSON server.md",
+                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express/JSON server.md"
+                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md"
               }
             }
           },
@@ -160,52 +160,52 @@
   },
   "active": "4008a5bdf17f0698",
   "lastOpenFiles": [
-    "Pasted image 20241004122105.png",
+    "SQL, psql, PostgreSQL, MySQL/MODIFY.md",
+    "SQL, psql, PostgreSQL, MySQL/DROP.md",
+    "SQL, psql, PostgreSQL, MySQL/ADD.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
+    "React/Context/Learn React Context.md",
+    "React/Context/Upon-Review Context.md",
+    "Pasted image 20241011114302.png",
+    "Pasted image 20241011114101.png",
+    "Pasted image 20241011113758.png",
+    "Pasted image 20241011113626.png",
+    "React/Context/useContext - Simply Explained!.md",
+    "React/Context",
+    "React/useRef.md",
+    "React/React Query/useMutation with Code Evolution.md",
+    "React/React Query/1) READ FIRST.md",
+    "React/React Query/Tan Stack Query in 50 Minutes.md",
+    "React/React Query/React Query(Tan Stack Query).md",
+    "JavaScript/W3 JavaScript Reference.md",
+    "React/React Prop-types.md",
+    "React/React-Router-Dom/Basic Router.md",
+    "React/React-Router-Dom/How to make text a link in ReactJS.md",
+    "Tailwind/Tailwind Colors.md",
+    "Bash/Tar/Tar and Extract dist dir.md",
+    "Css/How to use Font Awesome Icons in CSS as background image.md",
     "Express/JSON server.md",
+    "Pasted image 20241004122105.png",
     "Express/Untitled",
     "Regex/Regular Expressions Cheat Sheet by DaveChild.md",
     "Tailwind/How to Add Text Shadow Support to Tailwind CSS.md",
     "Tailwind/Install.md",
     "Tailwind/A Step-by-Step Guide to Installing Tailwind CSS with React  by Shiva Yadav  Medium.md",
-    "nodejs/Update NPM Dependencies.md",
-    "nodejs/upgrade 2023 -11-17.md",
-    "Bash/Tar/Tar Syntax.md",
-    "Bash/Tar/Tar and Extract dist dir.md",
-    "SQL, psql, PostgreSQL, MySQL/DROP.md",
-    "SQL, psql, PostgreSQL, MySQL/Postgresql/Cheat Sheet.md",
-    "Bash/Grep.md",
-    "React/useRef.md",
-    "React/React Query/React-Query on form submission.md",
-    "React/React Query/tanstack react-form upload.md",
-    "React/React Query/useMutation with Code Evolution.md",
-    "React/React Query/file upload useMutation typescript.md",
-    "Regex/Cheat Sheet.md",
     "Pasted image 20240924100911.png",
-    "vite/Vite(Veet) - Getting Started.md",
     "Regex/Regular Expressions Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com Cheat Sheets For Every Occasion.md.part",
     "Regex",
-    "vite/Setup SCSS In Vite.md",
-    "React/File Upload Interface.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
     "Pasted image 20240919081958.png",
-    "nodejs/Es/__dirname is not defined.md",
-    "Express/Nodejs file upload.md",
-    "Express/Multer-file upload.md",
     "Pasted image 20240918121010.png",
     "Pasted image 20240918102902.png",
     "Pasted image 20240916135604.png",
-    "Pasted image 20240916135930.png",
-    "Pasted image 20240916135146.png",
-    "Assets/Pasted image 20240916133825.png",
-    "Assets/Pasted image 20240916133126.png",
-    "Pasted image 20240916130807.png",
     "nodejs/Es",
     "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
     "Tailwind",
     "vsCode/cheatsheet-a5.pdf",
     "Type Script",
     "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server  DigitalOcean.md.part",
-    "LEMP",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

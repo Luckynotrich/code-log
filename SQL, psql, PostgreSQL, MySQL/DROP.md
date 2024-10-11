@@ -9,4 +9,7 @@ W3 schools[`ALTER TABLE Persons  DROP CONSTRAINT UC_Person;`](https://www.w3scho
 ALTER TABLE Persons  
 DROP CONSTRAINT PK_Person;
 ```
-
+##### DROP COLUMN
+```sql
+alter table event drop column loc_contact;
+```

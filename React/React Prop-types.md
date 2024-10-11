@@ -7,7 +7,7 @@ npm i prop-types
 ![[Pasted image 20230823145844.png]]
 
 
-#### look for Prop Type errors in browser console in the wrong kind of value is provided
+#### look for Prop Type errors in browser console if the wrong kind of value is provided
 ![[Pasted image 20230823150403.png]]
 
 #### The .isRequired throws this error if the variable in not present
