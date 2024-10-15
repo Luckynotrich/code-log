@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+                "file": "Images/Calculate image file size.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+                "file": "Images/Calculate image file size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+                "file": "Images/Calculate image file size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md"
+                "file": "Images/Calculate image file size.md"
               }
             }
           },
@@ -160,12 +160,23 @@
   },
   "active": "4008a5bdf17f0698",
   "lastOpenFiles": [
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "Images/Calculate image file size.md",
+    "Images",
+    "Untitled 1.md",
+    "nodejs/MySQL module.md",
+    "nodejs/Es/__dirname is not defined.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
+    "OS and Virtulization/Media Server.md",
+    "Linux/Ubuntu Pro.md",
+    "nodejs/Insert & Read Image BLOB in MySQL.md",
+    "JavaScript/Copy Object Elements with Object.assign.md",
+    "React/Forced Reload.md",
+    "React/File Upload Interface.md",
     "SQL, psql, PostgreSQL, MySQL/MODIFY.md",
     "SQL, psql, PostgreSQL, MySQL/DROP.md",
     "SQL, psql, PostgreSQL, MySQL/ADD.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
     "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
     "React/Context/Learn React Context.md",
     "React/Context/Upon-Review Context.md",
     "Pasted image 20241011114302.png",
@@ -181,18 +192,8 @@
     "React/React Query/React Query(Tan Stack Query).md",
     "JavaScript/W3 JavaScript Reference.md",
     "React/React Prop-types.md",
-    "React/React-Router-Dom/Basic Router.md",
-    "React/React-Router-Dom/How to make text a link in ReactJS.md",
-    "Tailwind/Tailwind Colors.md",
-    "Bash/Tar/Tar and Extract dist dir.md",
-    "Css/How to use Font Awesome Icons in CSS as background image.md",
-    "Express/JSON server.md",
     "Pasted image 20241004122105.png",
     "Express/Untitled",
-    "Regex/Regular Expressions Cheat Sheet by DaveChild.md",
-    "Tailwind/How to Add Text Shadow Support to Tailwind CSS.md",
-    "Tailwind/Install.md",
-    "Tailwind/A Step-by-Step Guide to Installing Tailwind CSS with React  by Shiva Yadav  Medium.md",
     "Pasted image 20240924100911.png",
     "Regex/Regular Expressions Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com Cheat Sheets For Every Occasion.md.part",
     "Regex",
@@ -205,7 +206,6 @@
     "Tailwind",
     "vsCode/cheatsheet-a5.pdf",
     "Type Script",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Completely uninstall mysql-server  DigitalOcean.md.part",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
