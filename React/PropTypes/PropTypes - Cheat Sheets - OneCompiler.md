@@ -16,7 +16,9 @@ PropTypes used to typechecking the props that are passed to a React component.
 ## Syntax
 
 ```javascript
-import PropTypes from 'prop-types'; class Greetings extends React.Component { render() { return ( <p>Hello, {this.props.name}!</p> ); } } Greetings.propTypes = { name: PropTypes.string };
+
+import PropTypes from 'prop-types'; 
+class Greetings extends React.Component { render() { return ( <p>Hello, {this.props.name}!</p> ); } } Greetings.propTypes = { name: PropTypes.string };
 ```
 
 ## PropType Validators

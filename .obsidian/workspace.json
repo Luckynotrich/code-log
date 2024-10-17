@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2641b4c7d539272b",
+        "id": "45e930c30831b1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "4008a5bdf17f0698",
+            "id": "b9a602c86495fbde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Images/Calculate image file size.md",
+                "file": "React/PropTypes/How to Use PropTypes in React.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "How to Use PropTypes in React"
+            }
+          },
+          {
+            "id": "076b5feab2d4af89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Get the Height and width of Image.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get the Height and width of Image"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +83,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5069465637207
+    "width": 209.5069465637207
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Calculate image file size.md",
+                "file": "React/Get the Height and width of Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Get the Height and width of Image"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Calculate image file size.md",
+                "file": "React/Get the Height and width of Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Get the Height and width of Image"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Calculate image file size.md"
-              }
+                "file": "React/Get the Height and width of Image.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Get the Height and width of Image"
             }
           },
           {
@@ -138,7 +169,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -158,9 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4008a5bdf17f0698",
+  "active": "076b5feab2d4af89",
   "lastOpenFiles": [
+    "React/Get the Height and width of Image.md",
+    "React/PropTypes/PropTypes - Cheat Sheets - OneCompiler.md",
     "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "Assets/Pasted image 20241011114302.png",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Pasted image 20241016081827.png",
     "Images/Calculate image file size.md",
     "Images",
     "Untitled 1.md",
@@ -179,28 +218,22 @@
     "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
     "React/Context/Learn React Context.md",
     "React/Context/Upon-Review Context.md",
-    "Pasted image 20241011114302.png",
-    "Pasted image 20241011114101.png",
-    "Pasted image 20241011113758.png",
-    "Pasted image 20241011113626.png",
+    "Assets/Pasted image 20241011114101.png",
+    "Assets/Pasted image 20241011113758.png",
+    "Assets/Pasted image 20241011113626.png",
     "React/Context/useContext - Simply Explained!.md",
     "React/Context",
     "React/useRef.md",
     "React/React Query/useMutation with Code Evolution.md",
     "React/React Query/1) READ FIRST.md",
-    "React/React Query/Tan Stack Query in 50 Minutes.md",
-    "React/React Query/React Query(Tan Stack Query).md",
-    "JavaScript/W3 JavaScript Reference.md",
-    "React/React Prop-types.md",
-    "Pasted image 20241004122105.png",
+    "Assets/Pasted image 20241004122105.png",
     "Express/Untitled",
-    "Pasted image 20240924100911.png",
+    "Assets/Pasted image 20240924100911.png",
     "Regex/Regular Expressions Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com Cheat Sheets For Every Occasion.md.part",
     "Regex",
-    "Pasted image 20240919081958.png",
-    "Pasted image 20240918121010.png",
+    "Assets/Pasted image 20240919081958.png",
+    "Assets/Pasted image 20240918121010.png",
     "Pasted image 20240918102902.png",
-    "Pasted image 20240916135604.png",
     "nodejs/Es",
     "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
     "Tailwind",
