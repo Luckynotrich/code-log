@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Get the Height and width of Image.md",
+                "file": "React/get the height and width of a component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get the Height and width of Image"
+              "title": "get the height and width of a component"
             }
           }
         ],
@@ -193,7 +193,9 @@
   },
   "active": "076b5feab2d4af89",
   "lastOpenFiles": [
+    "Pasted image 20241018121100.png",
     "React/Get the Height and width of Image.md",
+    "React/get the height and width of a component.md",
     "React/PropTypes/PropTypes - Cheat Sheets - OneCompiler.md",
     "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
     "Assets/Pasted image 20241011114302.png",
@@ -224,8 +226,6 @@
     "React/Context/useContext - Simply Explained!.md",
     "React/Context",
     "React/useRef.md",
-    "React/React Query/useMutation with Code Evolution.md",
-    "React/React Query/1) READ FIRST.md",
     "Assets/Pasted image 20241004122105.png",
     "Express/Untitled",
     "Assets/Pasted image 20240924100911.png",
