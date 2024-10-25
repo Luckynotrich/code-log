@@ -3,7 +3,7 @@ August 22, 2023 / [#JavaScript](https://www.freecodecamp.org/news/tag/javascript
 
 # [JS Date Validations – How To Validate a Date in JavaScript (With Examples)](https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/)
 ```js
-et dateInput = "2019/05/15"; // YYYY/MM/DD format
+let dateInput = "2019/05/15"; // YYYY/MM/DD format
 
 let dateObj = new Date(dateInput);
 
@@ -47,4 +47,20 @@ if (inputDate < currentDate) {
 } else {
   console.log('The input date is in the future.');
 }
+```
+
+## Military Time to local time
+```js
+
+const now = new Date();
+
+// Get the time in 12-hour format with AM/PM
+const timeString = now.toLocaleTimeString('en-US', { 
+  hour: 'numeric', 
+  minute: 'numeric', 
+  second: 'numeric', 
+  hour12: true 
+});
+
+console.log(timeString); // Output: 11:51:00 AM
 ```

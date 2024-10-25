@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/get the height and width of a component.md",
+                "file": "React/React Query/UseSuspenseQuery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "get the height and width of a component"
+              "title": "UseSuspenseQuery"
+            }
+          },
+          {
+            "id": "8d95e6ad05393197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/PropTypes/How to Use PropTypes in React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Use PropTypes in React"
             }
           }
         ],
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5069465637207
+    "width": 200
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -191,15 +205,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "076b5feab2d4af89",
+  "active": "5faba77b61e4c4b2",
   "lastOpenFiles": [
+    "JavaScript/Date and Time.md",
+    "React/React Query/UseSuspenseQuery.md",
+    "React/PropTypes/How to Use PropTypes in React.md",
+    "React/React Query/React Query(Tan Stack Query).md",
+    "React/React Query/file upload useMutation typescript.md",
+    "React/React Query/1) READ FIRST.md",
+    "React/React Query/project setup with Code Evolution.md",
+    "React/Capture window width.md",
+    "Bash/apt.md",
+    "How to create a.md",
+    "React/Forced Reload.md",
+    "React/useRef to get the height and width of a component.md",
+    "React/useRef.md",
     "Pasted image 20241018121100.png",
     "React/Get the Height and width of Image.md",
-    "React/get the height and width of a component.md",
     "React/PropTypes/PropTypes - Cheat Sheets - OneCompiler.md",
     "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
     "Assets/Pasted image 20241011114302.png",
-    "Untitled.md",
     "Untitled 2.md",
     "Pasted image 20241016081827.png",
     "Images/Calculate image file size.md",
@@ -212,20 +237,10 @@
     "Linux/Ubuntu Pro.md",
     "nodejs/Insert & Read Image BLOB in MySQL.md",
     "JavaScript/Copy Object Elements with Object.assign.md",
-    "React/Forced Reload.md",
-    "React/File Upload Interface.md",
-    "SQL, psql, PostgreSQL, MySQL/MODIFY.md",
-    "SQL, psql, PostgreSQL, MySQL/DROP.md",
-    "SQL, psql, PostgreSQL, MySQL/ADD.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
-    "React/Context/Learn React Context.md",
-    "React/Context/Upon-Review Context.md",
     "Assets/Pasted image 20241011114101.png",
     "Assets/Pasted image 20241011113758.png",
     "Assets/Pasted image 20241011113626.png",
-    "React/Context/useContext - Simply Explained!.md",
     "React/Context",
-    "React/useRef.md",
     "Assets/Pasted image 20241004122105.png",
     "Express/Untitled",
     "Assets/Pasted image 20240924100911.png",
@@ -233,7 +248,6 @@
     "Regex",
     "Assets/Pasted image 20240919081958.png",
     "Assets/Pasted image 20240918121010.png",
-    "Pasted image 20240918102902.png",
     "nodejs/Es",
     "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
     "Tailwind",
