@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "45e930c30831b1b4",
+        "id": "599ec6117894f2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "076b5feab2d4af89",
+            "id": "44d58575a6400acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Context/useContext - Simply Explained!.md",
+                "file": "Bash/du - dish usage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useContext - Simply Explained!"
+              "title": "du - dish usage"
+            }
+          },
+          {
+            "id": "db70eca2551abc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/du - dish usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "du - dish usage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,37 +191,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "076b5feab2d4af89",
+  "active": "db70eca2551abc1a",
   "lastOpenFiles": [
+    "Bash/Tar/Tar and Extract dist dir.md",
+    "Bash/Tar/Tar Syntax.md",
+    "React/Refresh Detection.md",
+    "React/Refresh a Page or Component in React - Upmostly.md",
+    "Bash/Scripting/IF statement.md",
+    "Bash/Scripting/test if a file exist.md",
+    "React/Click Away Listener.md",
+    "React/PropTypes/How to Use PropTypes in React.md",
+    "Bash/rsync_help.md",
+    "JavaScript/Delete Green Coast Event.md",
+    "JavaScript/Find Current Working Dir.md",
+    "JavaScript/2) STRINGS.md",
+    "Bash/find  -  bash.md",
+    "JavaScript/Keystroke detection/3) Date.md",
+    "React/Map component.md",
+    "SQL, psql, PostgreSQL, MySQL/DROP.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER TABLE.md",
+    "React/Context/useContext - Simply Explained!.md",
     "React/PropTypes/PropTypes - Cheat Sheets - OneCompiler.md",
     "A2hosting/Dissable CloudFlare Proxy to Update AutoSSL.md",
     "A2hosting/A2 FOR.com errors.md",
     "A2hosting/Cloud Flare dns-add-records.md",
     "SQL, psql, PostgreSQL, MySQL/MySQL/SHOW.md",
     "JavaScript/1) ARRAYS.md",
-    "JavaScript/2) STRINGS.md",
     "JavaScript/STRINGS/String.slice().md",
     "JavaScript/STRINGS",
-    "JavaScript/W3 JavaScript Reference.md",
-    "JavaScript/Date and Time.md",
-    "SQL, psql, PostgreSQL, MySQL/UPDATE row.md",
-    "React/PropTypes/How to Use PropTypes in React.md",
-    "React/React Query/UseSuspenseQuery.md",
-    "React/React Query/React Query(Tan Stack Query).md",
-    "React/React Query/file upload useMutation typescript.md",
-    "React/React Query/1) READ FIRST.md",
-    "React/React Query/project setup with Code Evolution.md",
-    "React/Capture window width.md",
-    "Bash/apt.md",
-    "How to create a.md",
-    "React/Forced Reload.md",
-    "React/useRef to get the height and width of a component.md",
-    "React/useRef.md",
     "Pasted image 20241018121100.png",
-    "React/Get the Height and width of Image.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
     "Assets/Pasted image 20241011114302.png",
-    "Untitled 2.md",
     "Pasted image 20241016081827.png",
     "Images",
     "Assets/Pasted image 20241011114101.png",
