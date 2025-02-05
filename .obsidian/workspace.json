@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/React/console.log(JSON.stringify(object)).md",
-                "mode": "preview",
+                "file": "JavaScript/React/React Date Picker.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "console.log(JSON.stringify(object))"
+              "title": "React Date Picker"
             }
           }
         ]
@@ -179,8 +179,20 @@
   },
   "active": "de887587fdfd1c0b",
   "lastOpenFiles": [
-    "JavaScript/React/Console.log inside component.md",
+    "JavaScript/React/Click Away Listener.md",
+    "JavaScript/General JS/3) Date.md",
+    "Bash/Tar/Tar and Extract dist dir.md",
     "JavaScript/React/console.log(JSON.stringify(object)).md",
+    "PASS/Read-Unread enhancement.md",
+    "PASS",
+    "OpenSSH keys - IBM Documentation.md",
+    "Keystroke detection/Detect Refresh with JS Cookies.md",
+    "Keystroke detection",
+    "JavaScript/React/React Date Picker.md",
+    "JavaScript/React/How to Refresh a Page or Component in React - Upmostly.md",
+    "JavaScript/Find Current Working Dir.md",
+    "JavaScript/Delete Green Coast Event.md",
+    "JavaScript/React/Console.log inside component.md",
     "JavaScript/React/Basic Components/Date Picker.md",
     "JavaScript/React/Basic Components/Form examples.md",
     "JavaScript/React/Basic Components/File Upload Interface.md",
@@ -196,16 +208,6 @@
     "JavaScript/General JS/Capture window width.md",
     "JavaScript/React/Abort Controller.md",
     "JavaScript/General JS/Get Started with Mocha, Nodejs.md",
-    "JavaScript/General JS/History - Web APIs  MDN.md",
-    "JavaScript/General JS/Axios Single Value.md",
-    "sass/scripting_notes.md",
-    "Regex/Regular Expressions Cheat Sheet by DaveChild.md",
-    "Regex/Cheat Sheet.md",
-    "Regex/1) Reference.md",
-    "JavaScript/React/Map component.md",
-    "JavaScript/General JS/exec - shell commands.md",
-    "JavaScript/General JS/Find Current Working Dir.md",
-    "JavaScript/React/React-Router-Dom/NavLink.md",
     "Pasted image 20250129111629.png",
     "JavaScript/React/Keystroke detection",
     "Css/clamp.png",
@@ -223,8 +225,6 @@
     "Images",
     "Assets/Pasted image 20241011114101.png",
     "Assets/Pasted image 20241011113758.png",
-    "JavaScript/React/Context",
-    "Express/Untitled",
     "React-Hook-Form/Untitled.canvas"
   ]
 }
