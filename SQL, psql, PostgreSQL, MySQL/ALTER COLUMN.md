@@ -12,3 +12,4 @@ ALTER TABLE event CHANGE COLUMN type type varchar(50) AFTER event_id;
 ```sql
 ALTER TABLE event CHANGE COLUMN event_type event_type VARCHAR(15);
 ```
+

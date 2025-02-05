@@ -1,7 +1,7 @@
 
 After creating a script
 ```
-sudo chmod +x./ scriptname.sh
+sudo chmod +x scriptname.sh
 ```
 
 Adding this line with the shebang (!#) tells system what shell to use and tells you what type of script it is.

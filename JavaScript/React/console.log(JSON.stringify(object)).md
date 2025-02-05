@@ -1,0 +1,1 @@
+To view the contents of an object, when console.log prints 'Object object'

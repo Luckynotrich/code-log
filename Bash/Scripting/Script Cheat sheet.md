@@ -87,7 +87,14 @@ See: [Brace expansion](https://web.archive.org/web/20230207192110/https://wiki.b
 ### Basics
 
 ```bash
-name="John" echo "${name}" echo "${name/J/j}" #=> "john" (substitution) echo "${name:0:2}" #=> "Jo" (slicing) echo "${name::2}" #=> "Jo" (slicing) echo "${name::-1}" #=> "Joh" (slicing) echo "${name:(-1)}" #=> "n" (slicing from right) echo "${name:(-2):1}" #=> "h" (slicing from right) echo "${food:-Cake}" #=> $food or "Cake"
+name="John" echo "${name}"
+echo "${name/J/j}" #=> "john" (substitution) 
+echo "${name:0:2}" #=> "Jo" (slicing)
+echo "${name::2}" #=> "Jo" (slicing)
+echo "${name::-1}" #=> "Joh" (slicing)
+echo "${name:(-1)}" #=> "n" (slicing from right)
+echo "${name:(-2):1}" #=> "h" (slicing from right)
+echo "${food:-Cake}" #=> $food or "Cake"
 ```
 
 ```bash
@@ -97,21 +104,30 @@ length=2 echo "${name:0:length}" #=> "Jo"
 See: [Parameter expansion](https://web.archive.org/web/20230408142504/https://wiki.bash-hackers.org/syntax/pe)
 
 ```bash
-str="/path/to/foo.cpp" echo "${str%.cpp}" # /path/to/foo echo "${str%.cpp}.o" # /path/to/foo.o echo "${str%/*}" # /path/to echo "${str##*.}" # cpp (extension) echo "${str##*/}" # foo.cpp (basepath) echo "${str#*/}" # path/to/foo.cpp echo "${str##*/}" # foo.cpp echo "${str/foo/bar}" # /path/to/bar.cpp
+str="/path/to/foo.cpp" 
+echo "${str%.cpp}" # /path/to/foo
+echo "${str%.cpp}.o" # /path/to/foo.o
+echo "${str%/*}" # /path/to echo "${str##*.}" # cpp (extension)
+echo "${str##*/}" # foo.cpp (basepath)
+echo "${str#*/}" # path/to/foo.cpp echo "${str##*/}" # foo.cpp
+echo "${str/foo/bar}" # /path/to/bar.cpp
 ```
 
 ```bash
-str="Hello world" echo "${str:6:5}" # "world" echo "${str: -5:5}" # "world"
+str="Hello world" echo "${str:6:5}" # "world"
+echo "${str: -5:5}" # "world"
 ```
 
 ```bash
-src="/path/to/foo.cpp" base=${src##*/} #=> "foo.cpp" (basepath) dir=${src%$base} #=> "/path/to/" (dirpath)
+src="/path/to/foo.cpp" 
+base=${src##*/} #=> "foo.cpp" (basepath) dir=${src%$base} #=> "/path/to/" (dirpath)
 ```
 
 ### Prefix name expansion
 
 ```bash
-prefix_a=one prefix_b=two echo ${!prefix_*} # all variables names starting with `prefix_` prefix_a prefix_b
+prefix_a=one prefix_b=two
+echo ${!prefix_*} # all variables names starting with `prefix_` prefix_a prefix_b
 ```
 
 ### Indirection
@@ -285,7 +301,14 @@ Fruits[0]="Apple" Fruits[1]="Banana" Fruits[2]="Orange"
 ### Working with arrays
 
 ```bash
-echo "${Fruits[0]}" # Element #0 echo "${Fruits[-1]}" # Last element echo "${Fruits[@]}" # All elements, space-separated echo "${#Fruits[@]}" # Number of elements echo "${#Fruits}" # String length of the 1st element echo "${#Fruits[3]}" # String length of the Nth element echo "${Fruits[@]:3:2}" # Range (from position 3, length 2) echo "${!Fruits[@]}" # Keys of all elements, space-separated
+echo "${Fruits[0]}" # Element #0 
+echo "${Fruits[-1]}" # Last element 
+echo "${Fruits[@]}" # All elements, space-separated 
+echo "${#Fruits[@]}" # Number of elements 
+echo "${#Fruits}" # String length of the 1st element 
+echo "${#Fruits[3]}" # String length of the Nth element 
+echo "${Fruits[@]:3:2}" # Range (from position 3, length 2) 
+echo "${!Fruits[@]}" # Keys of all elements, space-separated
 ```
 
 ### Operations

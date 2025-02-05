@@ -13,3 +13,4 @@ SHOW CREATE TABLE mytable;
 SHOW TABLES;
 
 ```
+

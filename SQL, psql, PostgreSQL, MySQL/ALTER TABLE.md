@@ -1,4 +1,4 @@
-
+va
 syntax
 ```sql
 ALTER TABLE table_name

@@ -12,3 +12,9 @@ FROM
     mysql.user;
 ```
 
+## Show all users
+```SQL
+SELECT user FROM MYSQL.USER;
+```
+
+
