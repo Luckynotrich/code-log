@@ -14,3 +14,4 @@ SHOW TABLES;
 
 ```
 
+[SHOW warnings;](https://dev.mysql.com/doc/refman/8.4/en/show-warnings.html)

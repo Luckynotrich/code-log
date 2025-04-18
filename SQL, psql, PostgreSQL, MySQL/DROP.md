@@ -1,3 +1,4 @@
+
 W3 schools[`DROP DATABASE _databasename_;`](https://www.w3schools.com/sql/sql_drop_db.asp)
 To drop  user-session  `DROP DATABASE "user-session"`
 

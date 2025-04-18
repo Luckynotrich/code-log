@@ -1,8 +1,9 @@
+## [How to Refresh a Page or Component in React](https://upmostly.com/tutorials/how-to-refresh-a-page-or-component-in-react)
 ![A web browser with a component to refresh a page in React.](https://cdn.shortpixel.ai/spai/w_985+q_lossy+ret_img+to_webp/https://cdn-upmostlymulti.pressidium.com/wp-content/uploads/react-refresh-page.jpg)
 
 In React, there are two ways to refresh a page: [updating the state](https://upmostly.com/tutorials/how-to-use-the-setstate-callback-in-react) and forcing a page reload. Let’s explore both methods of using React to refresh a page.
 
-### Check our full video walkthrough:
+### Check our full video walk through:
 
 ## Method 1: Refresh a Page Using JavaScript
 
@@ -53,7 +54,7 @@ A really common example of refreshing a page when the UI needs to be updated is 
 
 We’re using React, not some old-school PHP e-commerce framework! Let’s build a shopping cart component to demonstrate how to refresh a page using state:
 
-```
+```js
 import React, { useState } from 'react';
 
 function ShoppingCart() {
@@ -87,6 +88,7 @@ export default ShoppingCart;
 ```
 
 If you drop the ShoppingCart component into a running React app, you’d see something that looks like this:
+![[Pasted image 20250410103003.png]]
 
 The page is refreshing each time an item gets added to the cart without the need to hard refresh the page.
 

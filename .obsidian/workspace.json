@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/React/React Date Picker.md",
+                "file": "Bash/Tar/Tar and Extract dist dir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Date Picker"
+              "title": "Tar and Extract dist dir"
+            }
+          },
+          {
+            "id": "7efc5bd9d9b66141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditional Style Inline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditional Style Inline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refresh detect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.501522064209
+    "width": 359.501522064209
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -177,54 +192,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de887587fdfd1c0b",
+  "active": "7efc5bd9d9b66141",
   "lastOpenFiles": [
-    "JavaScript/React/Click Away Listener.md",
-    "JavaScript/General JS/3) Date.md",
     "Bash/Tar/Tar and Extract dist dir.md",
-    "JavaScript/React/console.log(JSON.stringify(object)).md",
-    "PASS/Read-Unread enhancement.md",
-    "PASS",
-    "OpenSSH keys - IBM Documentation.md",
-    "Keystroke detection/Detect Refresh with JS Cookies.md",
-    "Keystroke detection",
-    "JavaScript/React/React Date Picker.md",
-    "JavaScript/React/How to Refresh a Page or Component in React - Upmostly.md",
-    "JavaScript/Find Current Working Dir.md",
-    "JavaScript/Delete Green Coast Event.md",
-    "JavaScript/React/Console.log inside component.md",
-    "JavaScript/React/Basic Components/Date Picker.md",
-    "JavaScript/React/Basic Components/Form examples.md",
-    "JavaScript/React/Basic Components/File Upload Interface.md",
-    "JavaScript/React/useRef.md",
+    "Conditional Style Inline.md",
+    "SQL, psql, PostgreSQL, MySQL/UPDATE row.md",
+    "Bash/Tar/Tar Syntax.md",
+    "Bash/rsync_help.md",
+    "JavaScript/React/React Query/1) READ FIRST.md",
+    "Bash/Scripting/Basics.md",
+    "Bash/Scripting/IF statement.md",
+    "JavaScript/React/Keystroke detection/Refresh Detection & window resize.md",
     "JavaScript/General JS/Detect Refresh with JS Cookies.md",
-    "JavaScript/React/Select.md",
-    "JavaScript/General JS/1) ARRAYS.md",
     "JavaScript/General JS/2) STRINGS.md",
-    "JavaScript/General JS/Filter Undefined Array Elements.md",
+    "JavaScript/React/How to detect changes in window size.md",
+    "JavaScript/React/Keystroke detection/Refresh a Page or Component in React - Upmostly.md",
+    "JavaScript/React/Keystroke detection/How to Refresh a Page or Component in React - Upmostly.md",
+    "JavaScript/React/How to Refresh a Page or Component in React - Upmostly.md",
+    "Pasted image 20250410103003.png",
+    "JavaScript/React/Getting Size and Position of an Element in React.md",
+    "JavaScript/Intersection Observer API.md",
+    "vite/vite.config.js.md",
+    "vite/Vite(Veet) - Getting Started.md",
+    "vite/Setup SCSS In Vite.md",
+    "HTML/anchor link.md",
+    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
+    "SQL, psql, PostgreSQL, MySQL/INSERT.md",
+    "JavaScript/Node.js Child fork.md",
+    "JavaScript/Express/Request Params.md",
+    "SQL, psql, PostgreSQL, MySQL/MySQL/Data Types.md",
+    "Assets/Pasted image 20250319133734.png",
+    "Assets/Pasted image 20250319133709.png",
+    "Assets/Pasted image 20250226150745.png",
+    "Assets/Pasted image 20250205134735.png",
+    "PASS",
+    "Keystroke detection",
     "JavaScript/General JS",
-    "JavaScript/General JS/Delete Green Coast Event.md",
-    "JavaScript/General JS/Date and Time.md",
-    "JavaScript/General JS/Capture window width.md",
-    "JavaScript/React/Abort Controller.md",
-    "JavaScript/General JS/Get Started with Mocha, Nodejs.md",
-    "Pasted image 20250129111629.png",
+    "Assets/Pasted image 20250129111629.png",
     "JavaScript/React/Keystroke detection",
     "Css/clamp.png",
-    "Pasted image 20241213075532.png",
+    "Assets/Pasted image 20241213075532.png",
     "JavaScript/React/Basic Components",
-    "Pasted image 20241126124709.png",
+    "Assets/Pasted image 20241126124709.png",
     "JavaScript/fs",
-    "Pasted image 20241113134416.png",
+    "Assets/Pasted image 20241113134416.png",
     "Tiptap",
     "SSH",
     "JavaScript/STRINGS",
-    "Pasted image 20241018121100.png",
-    "Assets/Pasted image 20241011114302.png",
-    "Pasted image 20241016081827.png",
     "Images",
-    "Assets/Pasted image 20241011114101.png",
-    "Assets/Pasted image 20241011113758.png",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

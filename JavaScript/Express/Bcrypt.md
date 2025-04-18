@@ -25,7 +25,7 @@ app.post('/register', async (req, res) => {
 	}
 }
 ```
-![[Pasted image 20240318113441.png]]
+![[Pasted image 20240318113441 1.png]]
 
 #### To check a password:
 
