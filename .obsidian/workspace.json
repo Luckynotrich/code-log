@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4543fa096a0cf5",
+        "id": "17afb30916ce06a0",
         "type": "tabs",
         "children": [
           {
-            "id": "de887587fdfd1c0b",
+            "id": "28026fc1b1dca597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Tar/Tar and Extract dist dir.md",
+                "file": "Bash/get file's modification time, date.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tar and Extract dist dir"
+              "title": "get file's modification time, date"
             }
           },
           {
-            "id": "7efc5bd9d9b66141",
+            "id": "10f48f6c34bd2d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional Style Inline.md",
+                "file": "python/for loop iteration number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Style Inline"
+              "title": "for loop iteration number"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refresh detect",
+                "query": "status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.501522064209
+    "width": 361.501522064209
   },
   "right": {
     "id": "3e2e97704116e4b9",
@@ -192,54 +192,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7efc5bd9d9b66141",
+  "active": "10f48f6c34bd2d8d",
   "lastOpenFiles": [
-    "Bash/Tar/Tar and Extract dist dir.md",
-    "Conditional Style Inline.md",
-    "SQL, psql, PostgreSQL, MySQL/UPDATE row.md",
-    "Bash/Tar/Tar Syntax.md",
-    "Bash/rsync_help.md",
-    "JavaScript/React/React Query/1) READ FIRST.md",
     "Bash/Scripting/Basics.md",
-    "Bash/Scripting/IF statement.md",
-    "JavaScript/React/Keystroke detection/Refresh Detection & window resize.md",
-    "JavaScript/General JS/Detect Refresh with JS Cookies.md",
-    "JavaScript/General JS/2) STRINGS.md",
-    "JavaScript/React/How to detect changes in window size.md",
-    "JavaScript/React/Keystroke detection/Refresh a Page or Component in React - Upmostly.md",
-    "JavaScript/React/Keystroke detection/How to Refresh a Page or Component in React - Upmostly.md",
-    "JavaScript/React/How to Refresh a Page or Component in React - Upmostly.md",
-    "Pasted image 20250410103003.png",
-    "JavaScript/React/Getting Size and Position of an Element in React.md",
-    "JavaScript/Intersection Observer API.md",
-    "vite/vite.config.js.md",
-    "vite/Vite(Veet) - Getting Started.md",
-    "vite/Setup SCSS In Vite.md",
-    "HTML/anchor link.md",
-    "SQL, psql, PostgreSQL, MySQL/ALTER COLUMN.md",
-    "SQL, psql, PostgreSQL, MySQL/INSERT.md",
-    "JavaScript/Node.js Child fork.md",
-    "JavaScript/Express/Request Params.md",
-    "SQL, psql, PostgreSQL, MySQL/MySQL/Data Types.md",
-    "Assets/Pasted image 20250319133734.png",
-    "Assets/Pasted image 20250319133709.png",
-    "Assets/Pasted image 20250226150745.png",
-    "Assets/Pasted image 20250205134735.png",
-    "PASS",
-    "Keystroke detection",
-    "JavaScript/General JS",
-    "Assets/Pasted image 20250129111629.png",
-    "JavaScript/React/Keystroke detection",
-    "Css/clamp.png",
-    "Assets/Pasted image 20241213075532.png",
-    "JavaScript/React/Basic Components",
-    "Assets/Pasted image 20241126124709.png",
-    "JavaScript/fs",
-    "Assets/Pasted image 20241113134416.png",
-    "Tiptap",
-    "SSH",
-    "JavaScript/STRINGS",
-    "Images",
+    "python/for loop iteration number.md",
+    "Bash/Scripting/Real Update Script.md",
+    "Bash/Scripting/Operators/File operators.md",
+    "Bash/Scripting/Operators/Conditional.md",
+    "Bash/Scripting/Operators/Common Conditionals.md",
+    "Bash/Scripting/examples/assign  command output to variable.md",
+    "Bash/Scripting/Bash scripting cheatsheet.md",
+    "Bash/Scripting/test if a file exist.md",
+    "Bash/Scripting/Operators/Misc Operators.md",
+    "stat.md",
+    "Bash/get file's modification time, date.md",
+    "python/file read-write/CSV File Reading and Writing.md",
+    "python/sub process/1)subprocess.run-Executing Bash Cmds.md",
+    "python/file read-write",
+    "python/Read Files.md",
+    "python/Python Notes 5-8-25.md",
+    "python/sub process/subprocess.check_output.md",
+    "Bash/Scripting/Global Scripts.md",
+    "python/sub process/subprocess.call.md",
+    "python/sub process/Subprocess Pipe.md",
+    "in/Pasted image 20250528093327.png",
+    "Tree View Build.md",
+    "Linux/OpenSSH keys - IBM Documentation.md",
+    "Conditional Style Inline.md",
+    "Tailwind/Conditional Rendering.md",
+    "Linux/Adding a Directory to $PATH.md",
+    "Linux/Find what Desktop Environment.md",
+    "in/Pasted image 20250603125801.png",
+    "in/Pasted image 20250603110534.png",
+    "in/Pasted image 20250603110443.png",
+    "in/Pasted image 20250603105956.png",
+    "in/Pasted image 20250602092232.png",
+    "python/sub process",
+    "python",
+    "Git and Github/etssecrets_cheatsheet_bedizg.pdf",
+    "in/Pasted image 20250528093518.png",
+    "in/Pasted image 20250410103003.png",
+    "in/Pasted image 20250425084759.png",
+    "in/Pasted image 20250509111630.png",
+    "JavaScript/General JS/Data Validation",
+    "JavaScript/General JS/Examples",
+    "JavaScript/General JS/Data Capture",
+    "JavaScript/General JS/Data Manipulation",
+    "I am Learning",
+    "Bash/Scripting/examples",
     "React-Hook-Form/Untitled.canvas"
   ]
 }

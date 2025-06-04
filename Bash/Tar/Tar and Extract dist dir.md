@@ -1,8 +1,12 @@
-
+pack
 ```
 tar -czvf dist.tar.gz dist/
 ```
 
+list
+```sh
+tar -tvf dist.tar
+```
 unpack
 ```
 rm -rf dist/
@@ -19,8 +23,14 @@ To compress using **bzip2** compression
 $ tar -cjvf sales.tar.bz2 sales1.pdf sales2.pdf sales3.pdf
 ```
 
+list
+```sh
+tar -jtvf archive.tar.bz2
+```
+
 To decompress a ‘`.tar.bz2`’ file 
 ```sh
 tar -jxvf archive.tar.bz2
 
 ```
+

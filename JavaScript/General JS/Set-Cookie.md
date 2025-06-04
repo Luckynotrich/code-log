@@ -2,7 +2,6 @@
 # [Set-Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie#samesitesamesite-value)
 ## the structure of a cookie
 
-[![Image description](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7g2icuj4n5z6urrgm8y.png)](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7g2icuj4n5z6urrgm8y.png)
 
 1. **`name`**: The key or identifier for the cookie. It's the name by which the cookie is referenced.
 2. **`value`**: The data stored within the cookie. This is the information the server wants to remember about the user.

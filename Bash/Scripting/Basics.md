@@ -1,6 +1,10 @@
+Executing from command line
+```sh
+if [ ! -f dir_scan.csv ]; then touch dir_scan.csv; fi;
+```
 
 After creating a script
-```
+```sh
 sudo chmod +x scriptname.sh
 ```
 
