@@ -13,8 +13,9 @@ rm -rf dist/
 tar -xvf dist.tar.gz dist/
 ```
 
+exclude
 ```sh
-tar -X 'tar-exclude.txt' -czvf greencoast.tar.gz .
+tar -X 'tar-exclude.txt' -czvf greencoast.tar.gz . # This line may not work
 
 ```
 
@@ -31,6 +32,13 @@ tar -jtvf archive.tar.bz2
 To decompress a ‘`.tar.bz2`’ file 
 ```sh
 tar -jxvf archive.tar.bz2
+
+```
+
+**exclude**
+```sh
+# This command worked from the parent directory 
+tar --exclude="./rhbackend/node_modules/*" --exclude="./rhbackend/richardhaskell/.git/*" -jcvf richardhaskell.tar.bz2 ./rhbackend index.html;
 
 ```
 

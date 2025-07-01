@@ -1,0 +1,1 @@
+To run a Python script from the command line in Ubuntu, you can use the `python3` command followed by the script's filename. For example, if your script is named `my_script.py`, you would run it with `python3 my_script.py`

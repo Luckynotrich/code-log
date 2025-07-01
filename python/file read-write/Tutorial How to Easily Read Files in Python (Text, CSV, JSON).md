@@ -23,7 +23,7 @@ Before accessing the contents of a file, we need to open the file. Python provid
 
 First, let's try the function by opening a text file. Download the [text file](https://raw.githubusercontent.com/m-mehdi/tutorials/a78ef683f2716cfd431025768b3eedada45c9d47/zen_of_python.txt) containing the Zen of Python, and store it in the same path as your code.
 
-```
+```python
 f = open('zen_of_python.txt', 'r')
 print(f.read())
 f.close()
@@ -59,7 +59,7 @@ In the code above, the `open()` function opens the text file in the reading mode
 
 In Python, we can use the [`with` context manager](https://docs.python.org/3/reference/compound_stmts.html#with) to ensure a program releases the resources used after the file was closed, even if an exception has occurred. Let's try it:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     print(f.read())
 ```
@@ -88,13 +88,13 @@ with open('zen_of_python.txt') as f:
     Namespaces are one honking great idea -- let's do more of those!
 ```
 
-The code above creates a context using the `with` statement that the file object is no longer open out of the context. The bound variable, `f`, represents the file object that all the file object methods are accessible through the variable. The `read()` method reads the entire file in the second line, and then the `print()` function outputs the file content.
+The code above creates a context using the `with` statement, so that the file object is no longer open out of the context. The bound variable, `f`, represents the file object that all the file object methods are accessible through the variable. The `read()` method reads the entire file in the second line, and then the `print()` function outputs the file content.
 
 When the program reaches the end of the `with` statement block context, it closes the file to release the resources and ensures that other programs can use them. In general, using the `with` statement is a highly recommended practice when you're working with objects that need to be closed as soon as they're no longer required, such as files, databases, and network connections.
 
 Notice that we have access to the `f` variable even after exiting the `with` context manager block; however, the file is closed. Let's try some of the file object properties to see if the variable is still alive and accessible:
 
-```
+```python
 print("Filename is '{}'.".format(f.name))
 if f.closed:
     print("File is closed.")
@@ -109,7 +109,7 @@ else:
 
 However, it's impossible to read from the file or write to the file. When a file is closed, any attempt to access its content leads to the following error:
 
-```
+```python
 f.read()
 ```
 
@@ -151,7 +151,7 @@ You can even combine the text/binary modes with these, for example, `'rb'` means
 
 Let's look at copying an image file, [dataquest\_logo.png](https://raw.githubusercontent.com/m-mehdi/tutorials/8210bc95fdde6e46c393bd56298cee1a49ea08b1/dataquest_logo.png). Since images aren't text, we need to use binary mode:
 
-```
+```python
 source_image = 'dataquest_logo.png'
 copied_image = 'data_quest_logo_copy.png'
 
@@ -170,7 +170,7 @@ Now that we have a good understanding of file modes, let's focus specifically on
 
 So far, we've learned the entire content of a file can be read with the `read()` method. What if we only want to read a few bytes from a text file. To do that, specify the number of bytes in the `read()` method. Let's try it:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     print(f.read(17))
 ```
@@ -183,7 +183,7 @@ The simple code above reads the first 17 bytes of the _zen\_of\_python.txt_ file
 
 Sometimes, it makes more sense to read the content of a text file one line at a time. In this case, we can use the `readline()` method. Let's do it:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     print(f.readline())
 ```
@@ -194,7 +194,7 @@ The Zen of Python, by Tim Peters
 
 The code above returns the first line of the file. If we call the method one more time, it will return the second line in the file, etc., as follows:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     print(f.readline())
     print(f.readline())
@@ -212,7 +212,7 @@ Explicit is better than implicit.
 
 This useful method helps us to read the entire file incrementally. The following code outputs the entire file by iterating over it line by line until the file pointer that keeps track of where we're reading or writing the file reaches the end of the file. When the `readline()` method reaches the end of the file, it returns an empty string, `''`.with open('zen\_of\_python.txt') as f:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     line = f.readline()
     while line:
@@ -248,7 +248,7 @@ The code above reads the first line of the file outside the while loop and assig
 
 The other helpful method for reading text files is the `readlines()` method. Applying this method on a file object returns a list of strings containing each line of the file. Let's see how it works:
 
-```
+```python
 with open('zen_of_python.txt') as f:
     lines = f.readlines()
 ```
@@ -285,7 +285,7 @@ So far, we've learned how to work with regular text files. However, sometimes da
 
 We'll use the CSV module in this section. The CSV module provides helpful methods to read the comma-separated values stored in a CSV file. We'll try it right now, but first, you need to download the [`chocolate.csv`](https://raw.githubusercontent.com/m-mehdi/tutorials/main/chocolate.csv) file and store it in the current working directory:
 
-```
+```python
 import csv
 
 with open('chocolate.csv') as f:
@@ -410,7 +410,7 @@ with open('chocolate.csv') as f:
 
 Each row of the CSV file forms a list wherein every item can be easily accessed, as follows:
 
-```
+```python
 import csv
 
 with open('chocolate.csv') as f:
@@ -535,7 +535,7 @@ with open('chocolate.csv') as f:
 
 It's possible to use the name of the columns instead of using their indices, which is usually more convenient for developers. In this case, instead of using the `reader()` method, we use the `DictReader()` method that returns a collection of dictionary objects. Let's try it:
 
-```
+```python
 import csv
 
 with open('chocolate.csv') as f:
@@ -663,7 +663,7 @@ Another popular file format that we mainly use for storing and exchanging data i
 
 In this section, we're going to load a JSON file and work with it as a JSON object — not as a text file. To do that, we need to import the JSON module. Then, in the `with` context manager, we use the `load()` method that belongs to the `json` object. It loads the file's content and stores it in the `context` variable as a dictionary. Let's try it, but before running the code, download the [`movie.json`](https://raw.githubusercontent.com/m-mehdi/tutorials/main/movie.json) file and put it in the current working directory.
 
-```
+```python
 import json
 with open('movie.json') as f:
     content = json.load(f)
@@ -676,7 +676,7 @@ with open('movie.json') as f:
 
 Let's check the data type of the `content` variable:
 
-```
+```python
 print(type(content))
 ```
 
@@ -686,7 +686,7 @@ print(type(content))
 
 Its data type is a dictionary. So we can access each piece of information stored in the JSON file with its key. Let's see how we can retrieve data from it:
 
-```
+```python
 print('{} directed by {}'.format(content['Title'], content['Director']))
 ```
 

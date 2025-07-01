@@ -1,24 +1,4 @@
-rsync  version 3.2.3  protocol version 31
-Copyright (C) 1996-2020 by Andrew Tridgell, Wayne Davison, and others.
-Web site: https://rsync.samba.org/
-Capabilities:
-    64-bit files, 64-bit inums, 64-bit timestamps, 64-bit long ints,
-    socketpairs, hardlinks, hardlink-specials, symlinks, IPv6, atimes,
-    batchfiles, inplace, append, ACLs, xattrs, optional protect-args, iconv,
-    symtimes, prealloc, stop-at, no crtimes
-Optimizations:
-    SIMD, no asm, openssl-crypto
-Checksum list:
-    xxh128 xxh3 xxh64 (xxhash) md5 md4 none
-Compress list:
-    zstd lz4 zlibx zlib none
-
-rsync comes with ABSOLUTELY NO WARRANTY.  This is free software, and you
-are welcome to redistribute it under certain conditions.  See the GNU
-General Public Licence for details.
-
-rsync is a file transfer program capable of efficient remote update
-via a fast differencing algorithm.
+```sh
 
 Usage: rsync [OPTION]... SRC [SRC]... DEST
   or   rsync [OPTION]... SRC [SRC]... [USER@]HOST:DEST
@@ -51,7 +31,8 @@ Options
 --append                 append data onto shorter files
 --append-verify          --append w/old data in file checksum
 --dirs, -d               transfer directories without recursing
---mkpath                 create the destination's path component
+--old-dirs, --old-d      works like --dirs when talking to old rsync
+--mkpath                 create destination's missing path components
 --links, -l              copy symlinks as symlinks
 --copy-links, -L         transform symlink into referent file/dir
 --copy-unsafe-links      only "unsafe" symlinks are transformed
@@ -68,7 +49,8 @@ Options
 --owner, -o              preserve owner (super-user only)
 --group, -g              preserve group
 --devices                preserve device files (super-user only)
---copy-devices           copy device contents as regular file
+--copy-devices           copy device contents as a regular file
+--write-devices          write to devices as files (implies --inplace)
 --specials               preserve special files
 -D                       same as --devices --specials
 --times, -t              preserve modification times
@@ -81,7 +63,6 @@ Options
 --fake-super             store/recover privileged attrs using xattrs
 --sparse, -S             turn sequences of nulls into sparse blocks
 --preallocate            allocate dest files before writing them
---write-devices          write to devices as files (implies --inplace)
 --dry-run, -n            perform a trial run with no changes made
 --whole-file, -W         copy files whole (w/o delta-xfer algorithm)
 --checksum-choice=STR    choose the checksum algorithm (aka --cc)
@@ -139,7 +120,9 @@ Options
 --include-from=FILE      read include patterns from FILE
 --files-from=FILE        read list of source-file names from FILE
 --from0, -0              all *-from/filter files are delimited by 0s
---protect-args, -s       no space-splitting; wildcard chars only
+--old-args               disable the modern arg-protection idiom
+--secluded-args, -s      use the protocol to safely send the args
+--trust-sender           trust the remote sender's file list
 --copy-as=USER[:GROUP]   specify user & optional group for the copy
 --address=ADDRESS        bind address for outgoing socket to daemon
 --port=PORT              specify double-colon alternate port number
@@ -162,6 +145,7 @@ Options
 --bwlimit=RATE           limit socket I/O bandwidth
 --stop-after=MINS        Stop rsync after MINS minutes have elapsed
 --stop-at=y-m-dTh:m      Stop rsync at the specified point in time
+--fsync                  fsync every written file
 --write-batch=FILE       write a batched update to FILE
 --only-write-batch=FILE  like --write-batch but w/o updating dest
 --read-batch=FILE        read a batched update from FILE
@@ -173,6 +157,4 @@ Options
 --version, -V            print the version + other info and exit
 --help, -h (*)           show this help (* -h is help only on its own)
 
-Use "rsync --daemon --help" to see the daemon-mode command-line options.
-Please see the rsync(1) and rsyncd.conf(5) man pages for full documentation.
-See https://rsync.samba.org/ for updates, bug reports, and answers
+```
